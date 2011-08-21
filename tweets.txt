@@ -1,0 +1,852 @@
+Mon Jul 18 2011 03:34:32 GMT+1200 (NZST)»
+So, advanced winning? Better than the usual kind?
+Fri Jul 15 2011 00:50:46 GMT+1200 (NZST)»
+Endless loop state.
+Mon Mar 28 2011 04:37:04 GMT+1300 (NZDT)»
+Once again, schooled by shell quoting rules. I really need to stop with the almost-good-enough argument protecting code, or actually just use less shell script.
+Mon Mar 28 2011 04:32:05 GMT+1300 (NZDT)»
+OH: "If you want to store data of differing types within a lightweight organization system, I encourage you to check out the filesystem."
+Mon Mar 28 2011 04:31:10 GMT+1300 (NZDT)»
+OH: \If
+Mon Mar 28 2011 04:29:01 GMT+1300 (NZDT)»
+OH: If
+Mon Mar 28 2011 04:26:27 GMT+1300 (NZDT)»
+OH: \If
+Mon Mar 28 2011 04:24:02 GMT+1300 (NZDT)»
+OH: If
+Sat Mar 19 2011 03:32:01 GMT+1300 (NZDT)»
+Can't sleep, #Nexus will get me, can't sleep, Nexus will get me... #Larp #Nightmares #WTF
+Mon Mar 14 2011 16:56:21 GMT+1300 (NZDT)»
+...what you were supposed to do, of course, if you were any kind of man, was kill them with your fucking sword...
+Fri Feb 04 2011 21:55:45 GMT+1300 (NZDT)»
+I am finding it so difficult to get into and stay in the zone for coding without headphones.
+Wed Feb 02 2011 18:20:33 GMT+1300 (NZDT)»
+Squigoogle or squigoogle not, there is no can.
+Mon Jan 31 2011 17:32:35 GMT+1300 (NZDT)»
+Why yes, that eerie sourceless music is in fact somewhat disturbing.
+Thu Jan 27 2011 07:02:21 GMT+1300 (NZDT)»
+Realised that I am porting the CL LOOP DSL to Ioke... There has to be a better way to do this.
+Thu Jan 27 2011 00:45:31 GMT+1300 (NZDT)»
+Writing an AST struct and naive code printer in Ioke to test my intuitions.
+Wed Jan 26 2011 03:17:47 GMT+1300 (NZDT)»
+Will the pain never end? I'm now writing my own parser combinator library in Ioke... #yakshaving
+Wed Jan 26 2011 02:20:08 GMT+1300 (NZDT)»
+Aaaand I'm hand rolling a recursive descent parser. So, yak shaving?
+Wed Jan 26 2011 01:26:04 GMT+1300 (NZDT)»
+I tripped and fell over a non-terminal production. #ragel
+Tue Jan 25 2011 05:12:45 GMT+1300 (NZDT)»
+Why does it seem that every path leads to me writing a lexer for Ioke? #programming #ioke
+Sun Jan 23 2011 04:05:42 GMT+1300 (NZDT)»
+So painful to move up the Blub hierarchy. Going back to Scala after using Ioke feels like going back to Java after using Scala used to. #omega #blub
+Sun Jan 23 2011 03:51:00 GMT+1300 (NZDT)»
+Just now coming to terms with how awesome Rammstein was at the Big Day Out yesterday; totally worth the price of admission for them alone.
+Tue Jan 18 2011 16:42:44 GMT+1300 (NZDT)»
+@djrubbie out this way it was actually rain, it just evaporated before hitting the ground, and ended up looking like an early 2k fps skybox getting denser and denser for as long as the moon was out. Over the course of today it thinned out, and then as the day cooled it became heavier and converted into conventional rain. Alas.
+Tue Jan 18 2011 16:21:37 GMT+1300 (NZDT)»
+This mist is unreal; it is like West Auckland is welcoming me home.
+Thu Jan 13 2011 14:38:28 GMT+1300 (NZDT)»
+Obvious realisation is obvious. My path to Omega is all to do with successive approximations towards an exemplar of a given paradigm ordered by when a feature becomes personal Blub; paradigm is what ensures that programming languages ordered by power are a poset, and necessity for folding is the current highest level of Blub I can see. Current best approximations of an archetype of a paradigm: Ioke for Smalltalk, Arc for Lisp, Factor for Forth, maybe K for APL? Not sure what for Prolog; would welcome suggestions about any I have missed. #programming #crazy #blub #omega
+Thu Jan 13 2011 01:42:56 GMT+1300 (NZDT)»
+So much number eight wire. My solution may be even more jury rigged than tantek's; a mess of node.js, ruby, shell, multiple repos, rain dances and onions. Still, let us see how it handles some edge cases... #ThisTweetIsAnEdgeCase #MyOwnPersonalDiaspora
+Thu Jan 13 2011 01:40:08 GMT+1300 (NZDT)»
+So much number eight wire. My solution may be even more jury rigged than tantek's; a mess of node.js, ruby, shell, multiple repos, rain dances and onions. Still, let us see how it handles some edge cases... #ThisTweetIsAnEdgeCase #MyOwnPersonalDiaspora
+Thu Jan 13 2011 00:34:42 GMT+1300 (NZDT)»
+How much number eight wire can I add before this whole thing just implodes under its own weight? Apparently this much.
+Thu Jan 13 2011 00:29:16 GMT+1300 (NZDT)»
+How much number eight wire can I add before this whole thing just implodes under its own weight?
+Wed Jan 12 2011 23:20:21 GMT+1300 (NZDT)»
+It seems that number 8 wire will prevail, after all.
+Fri Jan 07 2011 01:47:45 GMT+1300 (NZDT)»
+Implosion still in progress; tweets are nearly done. Fb is probably next; not looking forward to the yak shaving... #MyOwnPersonalDiaspora
+Thu Dec 30 2010 15:55:16 GMT+1300 (NZDT)»
+Why do I always seem to have to rewrite mkdir -p for every fs lib I end up using? Come on people, it's 2010.
+Tue Dec 28 2010 12:54:56 GMT+1300 (NZDT)»
+And Net24 is on holiday today. So no VPS for me, still. Damn it.
+Tue Dec 28 2010 03:56:31 GMT+1300 (NZDT)»
+... however, after payment, they email to say that my application will take 1-2 hours to review, starting next business day. Um, what?
+Tue Dec 28 2010 03:54:59 GMT+1300 (NZDT)»
+Bought a VPS with Net24. They advertised time for registration to spun up and accessible VPS as less than 90 mins...
+Mon Dec 27 2010 02:24:49 GMT+1300 (NZDT)»
+Trying out @falcon.
+Fri Dec 17 2010 02:49:54 GMT+1300 (NZDT)»
+Pretty fonts and nice pdf generation down. Also, learnt OCaml. Finally.
+Thu Dec 16 2010 16:33:36 GMT+1300 (NZDT)»
+Glasses just broke. Can barely see screen. Thank goodness for touch typing. Editing code, however, is not likely...
+Thu Dec 16 2010 03:58:30 GMT+1300 (NZDT)»
+Wow, I really didn't understand the concept of Cairo masks. They make everything slightly more annoying, but so much more awesome.
+Tue Dec 14 2010 22:57:12 GMT+1300 (NZDT)»
+So amazingly enraged by package management. OCaml is a beautiful language, but Godi really sucks.
+Mon Dec 13 2010 04:07:59 GMT+1300 (NZDT)»
+And the easiest way to facilitate node.js <-> ocaml is by writing an ocaml http daemon...
+Mon Dec 13 2010 02:27:52 GMT+1300 (NZDT)»
+Apparently the easiest way to get good font support for Cairo in node.js is to instead call out through an ocaml wrapper... Rabbit holes...
+Sun Dec 12 2010 22:45:21 GMT+1300 (NZDT)»
+Fighting figures of light and flame in Sweden. Possibly connected to the giant humanoid pylons carrying lightning?
+Sun Dec 12 2010 21:29:43 GMT+1300 (NZDT)»
+Twain was right; Cherimoyas are amazing.
+Sun Dec 12 2010 17:00:44 GMT+1300 (NZDT)»
+Must... not... invent... new... markup... language...
+Sat Dec 11 2010 04:45:51 GMT+1300 (NZDT)»
+Node.js + CoffeeScript + Node-Canvas + Riak-js -> beautiful monstrosity. But, will it blend? #Nexus
+Thu Dec 09 2010 02:52:25 GMT+1300 (NZDT)»
+Argh, it is based on 'textual substitution' style macros, not 'parse tree' style macros. Having M4 flashbacks...
+Mon Nov 29 2010 02:03:55 GMT+1300 (NZDT)»
+My first time using modal logic in a practical setting, and it isn't for coding, it is for writing fiction. Huh.
+Fri Nov 26 2010 19:42:09 GMT+1300 (NZDT)»
+Why isn't there an app that would help me keep track of causality in time travel situations?
+Sat Nov 20 2010 04:33:27 GMT+1300 (NZDT)»
+Urgh, not a good night for insomnia. People are advised that woop levels may be high at the game in a few hours. #Nexus #Larp
+Sat Nov 20 2010 02:33:13 GMT+1300 (NZDT)»
+Wow, guy just called 'call/cc' 'unschemey'. Um, what?
+Sat Nov 20 2010 01:55:53 GMT+1300 (NZDT)»
+Three NPC goal sets done. Finally. Time for sleep.
+Fri Nov 19 2010 02:22:39 GMT+1300 (NZDT)»
+Will never look at electronica he same way again. My mind is blown; it all makes sense now.
+Wed Nov 17 2010 04:53:01 GMT+1300 (NZDT)»
+@djrubbie I used to read it, but I'm so far behind now it is ridiculous. I would be keen to catch up over coffee after you get back.
+Wed Nov 17 2010 03:19:15 GMT+1300 (NZDT)»
+@djrubbie Not Hayate; it was probably something about Android handsets. When do you get back from HK? Do you still drink coffee?
+Wed Nov 17 2010 01:05:01 GMT+1300 (NZDT)»
+Sub-lexical scope, duality, macro-let, pandoric-let nom nom nom... I want 'Let over Lambda' in paper form so much.
+Fri Nov 05 2010 07:00:53 GMT+1300 (NZDT)»
+Light cannot be chained. Also, finally time to sleep.
+Tue Nov 02 2010 00:53:08 GMT+1300 (NZDT)»
+Right, time for some High Wizardry.
+Sun Oct 31 2010 19:04:08 GMT+1300 (NZDT)»
+Damn you iron. Coboglobin isn't that toxic, right?
+Sun Oct 31 2010 03:38:01 GMT+1300 (NZDT)»
+@Tzrlk Does trying to teach Americans the true meaning of irony count?
+Sun Oct 31 2010 01:59:38 GMT+1300 (NZDT)»
+@Tzlrk Does trying to teach Americans the true meaning of irony count?
+Sat Oct 30 2010 23:13:53 GMT+1300 (NZDT)»
+Incredibly filled with hate. Do I get force lightning now?
+Sat Oct 30 2010 22:23:33 GMT+1300 (NZDT)»
+I'm really terrible at this vampire cult leader thing; too many memories of being a vampire hunter or something.
+Fri Oct 29 2010 00:11:51 GMT+1300 (NZDT)»
+The abyss also exerts significant influence upon ocean carbon cycling, dissolution of calcium carbonate and atmospheric CO2 concentrations.
+Thu Oct 28 2010 02:21:53 GMT+1300 (NZDT)»
+How wildly fascinating.
+Thu Oct 28 2010 02:21:23 GMT+1300 (NZDT)»
+So a full evacuation fire alarm in the building just after two am. Also, no all clear given yet (twenty minutes later). And no fire engines.
+Mon Oct 25 2010 01:40:05 GMT+1300 (NZDT)»
+When will I ever escape ISO-8859-1?
+Sat Oct 23 2010 03:16:03 GMT+1300 (NZDT)»
+Are your loved ones plotting to eat you? http://theoatmeal.com/quiz/plotting_eat via @oatmeal
+Wed Oct 20 2010 01:15:11 GMT+1300 (NZDT)»
+I keep getting distracted by more projects. For now, it is 'Frogs on the Moon!'. I'll come up with a better name if I don't get distracted.
+Mon Oct 18 2010 21:06:59 GMT+1300 (NZDT)»
+Right, trying this eccentric developer thing; I'll see if my own ideas are as good as they feel. Mmm, pudding. Also Scala.
+Sat Oct 16 2010 00:37:46 GMT+1300 (NZDT)»
+Apparently the opposite of a Sith Lord is a Sith Lord...
+Fri Oct 15 2010 21:27:19 GMT+1300 (NZDT)»
+So many documents. Our setting is perhaps a bit too rich.
+Fri Oct 15 2010 20:24:53 GMT+1300 (NZDT)»
+気持ち悪い。
+Sun Oct 10 2010 04:21:27 GMT+1300 (NZDT)»
+The apocalypse's difficulty is not matched to your skills. The apocalypse's price is not matched to your resources.
+Sun Oct 10 2010 04:21:19 GMT+1300 (NZDT)»
+The apocalypse does not need to offer you a chance of success in exchange for what you've already brought to the table.
+Wed Oct 06 2010 01:12:03 GMT+1300 (NZDT)»
+Tagging, publishing, micro posts, all from the command line. Still some way to go for all that I wish to do...
+Mon Oct 04 2010 19:02:36 GMT+1300 (NZDT)»
+I just need to finish a command line option parser, then my blog command line tool, then I can post...
+Mon Oct 04 2010 19:01:24 GMT+1300 (NZDT)»
+Why can I not escape the recursive rabbit holes, even on my own projects?
+Sun Oct 03 2010 23:26:04 GMT+1300 (NZDT)»
+I remember now; I actually really like metal... 'Dimmu Borgir' has reminded me.
+Sun Oct 03 2010 00:21:00 GMT+1300 (NZDT)»
+The wind came in, and blew away the fizz.
+Thu Sep 30 2010 23:18:07 GMT+1300 (NZDT)»
+Heh, 'invincible ignorance'...
+Wed Sep 29 2010 14:43:06 GMT+1300 (NZDT)»
+Urgh, flu. I will probably not be at scenes tonight for #Nexus.
+Tue Sep 28 2010 16:13:59 GMT+1300 (NZDT)»
+Every so often, I find out that something is even more awesome than I had previously thought; today that thing is Vim.
+Mon Sep 27 2010 14:18:58 GMT+1300 (NZDT)»
+Frell. Every time I move from rube-goldberg machine like organisation to (d)vc(s) or package managed or whatever, something explodes.
+Tue Sep 21 2010 23:28:49 GMT+1200 (NZST)»
+"Can't a man even clean up his work area without inadvertently conjuring up a pack of lightning-breathing ocelots?"
+Tue Sep 21 2010 12:15:14 GMT+1200 (NZST)»
+Wait, libsigsegv? Seriously?
+Sat Sep 18 2010 23:55:14 GMT+1200 (NZST)»
+So freaking tired, had to bail early on Chimera after party. Alas.
+Sat Sep 18 2010 01:48:29 GMT+1200 (NZST)»
+Four NPC goal sets, in just over four hours. Eight hours until Nexus. Sleep time.
+Thu Sep 09 2010 19:43:43 GMT+1200 (NZST)»
+@ayou055 The ways that people misidentify corporations as being like people, and why they should not be surprised that they are not?
+Thu Sep 09 2010 19:17:06 GMT+1200 (NZST)»
+@Nodame_7 Possibly coupled with minute, almost unnoticeable nodding? I like where this is going.
+Thu Sep 09 2010 18:28:48 GMT+1200 (NZST)»
+@Nodame_7 There is only one solution: we need to come up with some kind of unique facial expression to keep giving each other.
+Thu Sep 09 2010 18:14:41 GMT+1200 (NZST)»
+@Nodame_7 Indeed I am. There is no rest for the wicked.
+Thu Sep 09 2010 18:04:07 GMT+1200 (NZST)»
+How do they solve access to invokedynamic in Java? A class Dynamic with every possibly permutation of method name and signature. Um, what?
+Sat Sep 04 2010 02:19:45 GMT+1200 (NZST)»
+So, hail.
+Mon Aug 30 2010 19:04:12 GMT+1200 (NZST)»
+I hate Mercurial so much.
+Mon Aug 30 2010 15:09:10 GMT+1200 (NZST)»
+Integers are not compared with tolerances? Wtf ndiff; then how do you handle comparisons where underflow is possible on some configurations?
+Wed Aug 25 2010 16:09:56 GMT+1200 (NZST)»
+Mmmm, method acting as a classical actor acting as a method actor...
+Mon Aug 23 2010 15:16:13 GMT+1200 (NZST)»
+Sometimes I feel that much of the annoyance in my life could be solved with more coding; even the lack of time for more coding.
+Thu Aug 19 2010 00:56:31 GMT+1200 (NZST)»
+Hmm, generalised endgame tables... Maybe chess isn't such a bad metaphor.
+Wed Aug 18 2010 22:33:18 GMT+1200 (NZST)»
+"Our flesh is a prison, our mind is a cage."
+Wed Aug 18 2010 00:12:57 GMT+1200 (NZST)»
+Urgh; must have monospace font to edit code. Proportional fonts make me something something...
+Tue Aug 17 2010 23:42:37 GMT+1200 (NZST)»
+Hate hate hate manual testing. So schizophrenic; I know I can break it if I *try*, but I have to not want it to succeed to be a fair test.
+Fri Aug 13 2010 16:21:54 GMT+1200 (NZST)»
+My mind has gone completely blank. I think I've hit some kind of cache stall + timeout retry exponential backoff issue...
+Wed Aug 11 2010 07:13:24 GMT+1200 (NZST)»
+Dawn is still delicious.
+Tue Aug 03 2010 03:26:13 GMT+1200 (NZST)»
+@djrubbie except when one is productive or frustrated or interested or in the zone or confused or...
+Tue Aug 03 2010 01:23:25 GMT+1200 (NZST)»
+It still makes no sense. The more I examine this data set, the more confused I become.
+Fri Jul 30 2010 01:39:39 GMT+1200 (NZST)»
+Fire alarms all through the building at 1am, you say? How wildly fascinating.
+Tue Jul 27 2010 01:09:12 GMT+1200 (NZST)»
+Right, nexus.gen.nz is back online. Nothing fancy; just a basic static site. Good enough for two hours labour.
+Sun Jul 25 2010 06:49:44 GMT+1200 (NZST)»
+It turns out that Dawn is delicious.
+Sun Jul 25 2010 03:24:28 GMT+1200 (NZST)»
+@pschmied I'm in Auckland, but my sleep cycle is in Canada. It could be worse; it was in England before.
+Sun Jul 25 2010 00:31:44 GMT+1200 (NZST)»
+Just woke up. .My sleep cycle is even more messed up than I though.
+Mon Jul 19 2010 17:54:01 GMT+1200 (NZST)»
+"reimplementing insanity is insane" - Larry Wall.
+Wed Jul 14 2010 17:01:25 GMT+1200 (NZST)»
+'case object Null extends MetaData ...'. My mind is blown, yet again.
+Wed Jul 14 2010 15:17:44 GMT+1200 (NZST)»
+... or I could invent whitespace attributes ...
+Tue Jul 13 2010 02:50:09 GMT+1200 (NZST)»
+Right, suspending yak shaving for the present. Will resume in eight hours.
+Mon Jul 12 2010 22:44:17 GMT+1200 (NZST)»
+Right, it seems that some amount of yak shaving is inevitable. Why are the only other options failure and Nyarlathotep?
+Mon Jul 12 2010 00:52:47 GMT+1200 (NZST)»
+... that merge ended up being more of a knife fight ...
+Thu Jul 08 2010 15:36:35 GMT+1200 (NZST)»
+He summoned an XML::Elemental‽ I mean, sure it's level 3. But why?
+Wed Jul 07 2010 15:42:25 GMT+1200 (NZST)»
+Just wow: "Use --force option twice if you *really* want to do that."
+Tue Jul 06 2010 15:18:30 GMT+1200 (NZST)»
+Everything is beautiful, and then for a moment I realise that I need an IQ of 4000 to actually understand a Scala api. Nope, back to bliss.
+Tue Jul 06 2010 13:16:30 GMT+1200 (NZST)»
+I can't wait to see how this is remixed in clubs. I now understand the true justification for the existence of pop music.
+Thu Jun 24 2010 17:02:35 GMT+1200 (NZST)»
+On the struggle between the Pentacle and the Seers: "If you compete with slaves you become a slave."
+Wed Jun 23 2010 18:06:30 GMT+1200 (NZST)»
+Right, uploaded a disc image/app bundle of my metadata editor for Mac users. Still at http://github.com/flaviusb/metadata-editor/downloads
+Wed Jun 23 2010 01:02:58 GMT+1200 (NZST)»
+First cut of metadata editor up on http://github.com/flaviusb/metadata-editor/downloads
+Tue Jun 22 2010 16:52:42 GMT+1200 (NZST)»
+The more I look at RDF-XML as actually used, the more fractally gross I find it.
+Tue Jun 22 2010 14:29:49 GMT+1200 (NZST)»
+Suddenly beginning to suffocate in process.
+Mon Jun 21 2010 02:06:47 GMT+1200 (NZST)»
+The Yellow Sun robs me of my powers. I must acquire more Kryptonite. Or alternately, code at night.
+Mon Jun 21 2010 02:00:29 GMT+1200 (NZST)»
+A whole bunch of nasty hacks later, and the whole container thing actually works as desired. Now if only we had a complete spec to work off.
+Tue Jun 15 2010 17:53:20 GMT+1200 (NZST)»
+Apparently our carriers cannot handle this magnitude of firepower...
+Mon Jun 14 2010 01:24:31 GMT+1200 (NZST)»
+x: Option[T] getOrElse null ... kind of defeats the entire purpose.
+Sat Jun 12 2010 19:04:08 GMT+1200 (NZST)»
+Refactoring to a unified philosophy of RDF. Philosophically driven refactoring seems to take forever.
+Wed Jun 09 2010 03:20:14 GMT+1200 (NZST)»
+I wish I could just keep coding and get up in the afternoon.
+Wed Jun 09 2010 00:43:12 GMT+1200 (NZST)»
+Why am I in the zone now?
+Tue Jun 08 2010 00:20:30 GMT+1200 (NZST)»
+I should really go back to England; code flows most freely from 10pm-4am, and most sluggishly from 10am-4pm.
+Mon Jun 07 2010 17:38:05 GMT+1200 (NZST)»
+Okay, I was wrong. Stargate Universe is amazing. Thus far, it is like season one of Babylon 5. So much setup, drama, and actual sci fi.
+Fri Jun 04 2010 17:41:53 GMT+1200 (NZST)»
+It is a pity that the Dutch never built windmills, or I could tilt at them.
+Fri Jun 04 2010 06:19:56 GMT+1200 (NZST)»
+Why am I awake?
+Wed Jun 02 2010 00:34:22 GMT+1200 (NZST)»
+Why is the automatically generated javadoc for Jena so very wrong?
+Tue Jun 01 2010 17:41:18 GMT+1200 (NZST)»
+Why are there monsters in the rdf?
+Tue Jun 01 2010 15:27:13 GMT+1200 (NZST)»
+It is rabbit holes all the way down.
+Fri May 28 2010 16:09:11 GMT+1200 (NZST)»
+@djrubbie I'm tempted to skunkworks mine, but I know that is a perilous path.
+Fri May 28 2010 15:15:02 GMT+1200 (NZST)»
+Being slowly strangled by legacy. So, green fields anyone?
+Wed May 26 2010 15:14:13 GMT+1200 (NZST)»
+What I am trying to do actually makes no sense at all.
+Wed May 26 2010 13:40:59 GMT+1200 (NZST)»
+Static linking + a summer students copy pasta ftl.
+Tue May 25 2010 15:03:48 GMT+1200 (NZST)»
+So, it seems that Windows 7 is broken in new and exciting ways. I wonder what new quirk is killing our build scripts?
+Tue May 25 2010 01:00:13 GMT+1200 (NZST)»
+I really shouldn't read OpenBSD mailing lists. So much flame, so little signal.
+Mon May 24 2010 15:40:54 GMT+1200 (NZST)»
+Okay, the Windows PE file structure is looking more and more crazy the more time I spend trying to make what should be a simple hot patch.
+Tue May 18 2010 14:43:45 GMT+1200 (NZST)»
+Companion Objects with apply methods -> Factories. Mind blown.
+Mon May 17 2010 16:51:59 GMT+1200 (NZST)»
+monkeys vs robots
+Fri May 14 2010 13:17:13 GMT+1200 (NZST)»
+The question does not make sense.
+Thu May 13 2010 22:52:08 GMT+1200 (NZST)»
+Right, my desktop is totally fscked. Old KDE betas, why won't you play nicely with old Gnome betas when I try to move to a new Gnome beta?
+Thu May 13 2010 13:45:40 GMT+1200 (NZST)»
+Vim on Cygwin seems entirely borken.
+Thu May 13 2010 12:40:08 GMT+1200 (NZST)»
+I have been the subject of a slicing style DDoS.
+Tue May 11 2010 00:28:50 GMT+1200 (NZST)»
+It looks like content day today.
+Mon May 10 2010 17:30:33 GMT+1200 (NZST)»
+Happy XP day everyone!
+Mon May 10 2010 10:19:24 GMT+1200 (NZST)»
+Okay, so after much fscking around, I edited my fstab. Now sleep and wake seem to work again.
+Wed May 05 2010 16:31:02 GMT+1200 (NZST)»
+So angry with a 'walled gardens are more open than open source' post. What is it with this 'closed = open' boosterism?
+Wed May 05 2010 14:41:51 GMT+1200 (NZST)»
+Okay, I was wrong; most of the weight *is* in the jre after all, in the Java std libs. Damn, but Java libraries are huge...
+Mon May 03 2010 12:30:08 GMT+1200 (NZST)»
+@djrubbie I'm not ricing; 10.04 switches *all* ext3 partitions to ext4 with no option I have found thus far for easy rollback.
+Mon May 03 2010 11:59:47 GMT+1200 (NZST)»
+Damnation; moved to 10.04, now /home is RO. Fsck you, ext4.
+Thu Apr 29 2010 17:27:43 GMT+1200 (NZST)»
+'TODO' does not constitute full documentation suitable for consumption by developers.
+Thu Apr 29 2010 14:53:51 GMT+1200 (NZST)»
+Does not want magic beans. I can kill a giant and steal his stuff without selling my cow, thank you very much.
+Mon Apr 26 2010 01:44:13 GMT+1200 (NZST)»
+Damn you sleep.
+Thu Apr 22 2010 04:37:20 GMT+1200 (NZST)»
+Damn you sleep!
+Wed Apr 21 2010 12:48:03 GMT+1200 (NZST)»
+You will be entering a world where gladiatorial combat in code has replaced the discipline of software engineering.
+Tue Apr 20 2010 14:03:45 GMT+1200 (NZST)»
+An 'attempt to fix this trivial warning' option should never break everything irrevocably. #eclipse #rage
+Tue Apr 20 2010 13:02:45 GMT+1200 (NZST)»
+programmer, n: A red eyed, mumbling mammal capable of conversing with inanimate monsters.
+Fri Apr 16 2010 02:52:35 GMT+1200 (NZST)»
+Late night commits. I'm getting too old for this.
+Thu Apr 15 2010 12:09:41 GMT+1200 (NZST)»
+Eclipse is the second most retarded piece of crap I have ever had to use. It is actually almost as bad as nDeva.
+Fri Apr 09 2010 15:37:31 GMT+1200 (NZST)»
+Right, cantrip -> orison port progressing. Who knew that Voodoo could form an adequate bridge between Hermetic Mysticism and Catholicism?
+Wed Apr 07 2010 14:34:08 GMT+1200 (NZST)»
+@djrubbie Or that 'Default Edition' was in any way useful to me...
+Wed Apr 07 2010 14:33:11 GMT+1200 (NZST)»
+@djrubbie I'm pretty sure I don't need Diamond, or any of the 'Crystal' set. I wish that Ultimate Edition wasn't like 72 tibibytes...
+Wed Apr 07 2010 14:27:25 GMT+1200 (NZST)»
+Apparently I only had Eclipse Red and Blue; I think I need either Green, Yellow, or both Gold and Silver. Not sure though.
+Mon Apr 05 2010 20:15:50 GMT+1200 (NZST)»
+I want a Turing Complete language for playlists. But not enough to actually use Guile to script Amarok.
+Wed Mar 31 2010 17:20:21 GMT+1300 (NZDT)»
+Right, the correct method is to not use the API, and just use something else instead. Sigh.
+Wed Mar 31 2010 16:52:13 GMT+1300 (NZDT)»
+Amazing documentation. Functions accept flags, which are arbitrary powers of two. These may be ORed together. But what do the flags *do*?
+Mon Mar 29 2010 16:05:27 GMT+1300 (NZDT)»
+Mean uptime of eclipse: <2 hours. I'm not really sure what these are for...
+Mon Mar 29 2010 11:39:42 GMT+1300 (NZDT)»
+On the upside, SWT is somewhat less frothing-at-the-mouth insane than Swing.
+Mon Mar 29 2010 11:38:37 GMT+1300 (NZDT)»
+One downside of SWT; IBM decided to reintroduce manual resource management, thus negating Java's one significant advantage over C++.
+Fri Mar 26 2010 15:21:34 GMT+1300 (NZDT)»
+This is why we can't have nice things.
+Thu Mar 25 2010 18:10:28 GMT+1300 (NZDT)»
+A Bokor working on massive parallelization of algorithms?
+Sun Mar 21 2010 15:18:50 GMT+1300 (NZDT)»
+Hmm, 'Commune with Omniscience'... only 42xp away...
+Sun Mar 21 2010 11:15:19 GMT+1300 (NZDT)»
+Because they are able to bypass death, the number of individuals is spiking.
+Thu Mar 18 2010 12:44:46 GMT+1300 (NZDT)»
+It isn't actually a problem with application code after all, it is a problem with API code. Sigh.
+Thu Mar 18 2010 10:57:43 GMT+1300 (NZDT)»
+Opinion flip flop: I'd hate to be using only C++, but not having to use XPCOM would be so wonderful...
+Wed Mar 17 2010 15:45:52 GMT+1300 (NZDT)»
+@danielzollinger I much prefer git. Git just makes sense to me. But Hg is used at work. Hg is much better than SVN, CVS or whatever, though.
+Wed Mar 17 2010 14:40:45 GMT+1300 (NZDT)»
+Branches + .hgtags = incoherence. Is it a versioned file or isn't it?
+Tue Mar 16 2010 23:18:04 GMT+1300 (NZDT)»
+New features, and a more general, better approach in -4 lines. Huzzah.
+Tue Mar 16 2010 16:55:56 GMT+1300 (NZDT)»
+Last post applies esp to internal application code.
+Tue Mar 16 2010 16:54:46 GMT+1300 (NZDT)»
+Why do we use cmeta:id for cases when we could use unique paths instead? Models with imports bork cmeta:id's as useful disambiguators.
+Mon Mar 15 2010 18:02:57 GMT+1300 (NZDT)»
+So freaking tired.
+Wed Mar 10 2010 19:46:15 GMT+1300 (NZDT)»
+Right, moving to a new framework + reverse proxy. Is nothing both awesome and fully RFC 2616 compliant?
+Wed Mar 10 2010 17:39:10 GMT+1300 (NZDT)»
+Every so often, something happens that makes up for all the rest. Today was pretty cool.
+Mon Feb 22 2010 12:51:34 GMT+1300 (NZDT)»
+Inversion of Control sounds cool and all, but I really don't like poltergeists.
+Mon Feb 22 2010 01:50:27 GMT+1300 (NZDT)»
+Hmm, 'solid as a bank.' I don't think I could use that phrase without irony or sarcasm.
+Sun Feb 21 2010 15:03:55 GMT+1300 (NZDT)»
+A forksplosion will save us.
+Fri Feb 19 2010 15:06:46 GMT+1300 (NZDT)»
+No Internet Explorer 6 support is planned. Ever.
+Thu Feb 11 2010 14:45:52 GMT+1300 (NZDT)»
+@ayou055 Not sick, just way more busy than I thought. Thankfully, I think I'm _finally_ over my long illness.
+Thu Feb 11 2010 13:53:59 GMT+1300 (NZDT)»
+No #ThursdayNitePosse for me tonight; I have no time tonight, unfortunately.
+Wed Feb 10 2010 15:26:45 GMT+1300 (NZDT)»
+Mercurial isn't Hermetic at all.
+Mon Feb 08 2010 04:01:39 GMT+1300 (NZDT)»
+So, I pushed some commits, and five seconds later Github is down. Coincidence? Well, probably...
+Mon Feb 08 2010 03:29:26 GMT+1300 (NZDT)»
+Right, woke up two hours ago. Not going back to sleep, it seems.
+Sat Feb 06 2010 18:51:03 GMT+1300 (NZDT)»
+Still living in Shadow; I only hope I grow closer to Amber day by day. On the up side, |Power Word Kill|.
+Tue Feb 02 2010 17:24:08 GMT+1300 (NZDT)»
+Hates content free foo.
+Sun Jan 31 2010 21:57:24 GMT+1300 (NZDT)»
+“What appears to be a crisis is often merely the end of an illusion.”
+Sun Jan 31 2010 21:06:47 GMT+1300 (NZDT)»
+Nested quasiquotes wtf‽
+Sun Jan 31 2010 15:44:32 GMT+1300 (NZDT)»
+Argh! Threading, mutexes, atomic invocation, continuations - I have to tell myself it is just more training for time travel battles.
+Sun Jan 31 2010 12:34:17 GMT+1300 (NZDT)»
+All hail Zod!
+Sat Jan 30 2010 20:50:11 GMT+1300 (NZDT)»
+Andy Warhol on Model-View-Controller. Wait, what?
+Sat Jan 30 2010 18:06:31 GMT+1300 (NZDT)»
+It is all so clear now.
+Fri Jan 29 2010 17:54:25 GMT+1300 (NZDT)»
+Ministry of Sound Presents: Jacked. Just what the doctor ordered. Tonight, Met and Code, probably from around 10pm.
+Thu Jan 28 2010 16:23:38 GMT+1300 (NZDT)»
+xml processing -> caddadadadaddddddaaaadr
+Thu Jan 28 2010 12:36:35 GMT+1300 (NZDT)»
+I really don't want to write my own rdf libs... This project seems like rabbit holes all the way down...
+Wed Jan 27 2010 15:33:18 GMT+1300 (NZDT)»
+[P]lutotropic transhuman corporate overlords
+Tue Jan 26 2010 14:11:26 GMT+1300 (NZDT)»
+Prodigy => brain wake up. Huh.
+Mon Jan 25 2010 13:16:49 GMT+1300 (NZDT)»
+So, the joust was excellent. Plenty of bizarre, plenty of pretty. Met some cool people, had fun with old friends. #joust #taupo
+Fri Jan 22 2010 16:05:30 GMT+1300 (NZDT)»
+Weather fail. Light rain is better than laser death, but only just. I'm not sure where medium rain falls on this scale. #joust #taupo
+Wed Jan 20 2010 23:58:05 GMT+1300 (NZDT)»
+Let has implicit do. Pleasantly surprised.
+Wed Jan 20 2010 16:18:34 GMT+1300 (NZDT)»
+@abhishektiwari How about three thirty pm?
+Wed Jan 20 2010 16:03:51 GMT+1300 (NZDT)»
+I'm using arc for all my scripting need from now on. Bye bye Ruby!
+Wed Jan 20 2010 11:51:37 GMT+1300 (NZDT)»
+@abhishektiwari Hi man, Justin here. Meeting up to talk about the Java bindings to the CellML API would be cool; how is tomorrow for you?
+Tue Jan 19 2010 12:10:50 GMT+1300 (NZDT)»
+Or, would it be more efficient to unfold around multiple focus points?
+Mon Jan 18 2010 23:31:16 GMT+1300 (NZDT)»
+Just need to wrap every access in an accessor. Sigh, turtles for dinner again?
+Mon Jan 18 2010 21:17:37 GMT+1300 (NZDT)»
+My beautiful implementation useless, as tables cannot have mutable/place keys.
+Sun Jan 17 2010 17:49:07 GMT+1300 (NZDT)»
+“Acting and character growth are for people who aren’t potions masters.”
+Fri Jan 15 2010 20:20:38 GMT+1300 (NZDT)»
+Hmm, ssyntax is basically a combinator dsl...
+Fri Jan 15 2010 13:53:15 GMT+1300 (NZDT)»
+I now know there was a reason why C++ has such complex and full object initialisation rules.
+Thu Jan 14 2010 00:50:17 GMT+1300 (NZDT)»
+Life isn't a fairy tale. I've been around for 800 years, and I think I know a thing or two about the real world.
+Tue Jan 12 2010 15:59:46 GMT+1300 (NZDT)»
+I may just be reinventing existing database or 'Active Record' concepts... but multitables would make my code so much cleaner...
+Tue Jan 12 2010 14:56:08 GMT+1300 (NZDT)»
+@ayou055 http://www.reddit.com/r/programming/comments/alj7x/killing_software_patents_can_we_just_file_a/
+Mon Jan 11 2010 19:50:21 GMT+1300 (NZDT)»
+People who think that software != maths do not understand either. #patentrage
+Tue Jan 05 2010 02:26:53 GMT+1300 (NZDT)»
+There is a lot of tech in the internet - even confining myself to only parts of the transport and application layers...
+Mon Jan 04 2010 23:48:51 GMT+1300 (NZDT)»
+Websockets are so cool, but current browsers just don't have them. Sigh, Comet it is.
+Thu Dec 31 2009 15:27:10 GMT+1300 (NZDT)»
+That coffee was amazingly terrible. I have jitters, a headache, everything is spinning, and it tasted bad to boot. Fail.
+Thu Dec 31 2009 09:51:10 GMT+1300 (NZDT)»
+Wow, my code is getting monstrous rather more quickly than I would like...
+Wed Dec 30 2009 03:07:53 GMT+1300 (NZDT)»
+Huh, a star spangled spanner...
+Tue Dec 29 2009 23:32:08 GMT+1300 (NZDT)»
+Okay, I folded and am just using regexps for the moment. For the moment!
+Tue Dec 29 2009 21:21:06 GMT+1300 (NZDT)»
+Urgh, I don't get parser combinators...
+Tue Dec 29 2009 00:05:35 GMT+1300 (NZDT)»
+(Assuming I have to write the parser myself)
+Tue Dec 29 2009 00:04:54 GMT+1300 (NZDT)»
+So, Textile or Markdown?
+Mon Dec 28 2009 00:16:12 GMT+1300 (NZDT)»
+@ayou055 I'm in a flat!
+Sun Dec 27 2009 13:28:04 GMT+1300 (NZDT)»
+Back in Auckland. Hacking on LL, spending time with cousins. Life is good.
+Mon Dec 21 2009 15:29:17 GMT+1300 (NZDT)»
+Right, off to Paihia. Back in Auckland in a week or so.
+Mon Dec 21 2009 01:14:05 GMT+1300 (NZDT)»
+@ayou055 It was the dark magic, man. Too much dark magic.
+Sat Dec 19 2009 16:05:30 GMT+1300 (NZDT)»
+@Tzrlk http://help.github.com/msysgit-key-setup/
+Sat Dec 19 2009 14:57:16 GMT+1300 (NZDT)»
+@Tzrlk http://awwx.ws
+Sat Dec 19 2009 14:55:16 GMT+1300 (NZDT)»
+@Tzrlk http://ycombinator.com/arc/tut.txt
+Tue Dec 15 2009 22:06:30 GMT+1300 (NZDT)»
+@TehReal_YouFool Awesome, man. It seems like this is a week for long awaited ventures to commence.
+Tue Dec 15 2009 17:45:30 GMT+1300 (NZDT)»
+So, dark magic...
+Mon Dec 14 2009 10:57:39 GMT+1300 (NZDT)»
+Brain wants water.
+Fri Dec 11 2009 21:02:56 GMT+1300 (NZDT)»
+Wait, what?
+Mon Dec 07 2009 13:32:01 GMT+1300 (NZDT)»
+The bug count also rises.
+Sat Dec 05 2009 18:37:31 GMT+1300 (NZDT)»
+@tzrlk Also, this http://asylums.insanejournal.com/scans_daily/1097977.html
+Sat Dec 05 2009 17:44:18 GMT+1300 (NZDT)»
+@tzrlk Hey man, have a look at this http://gilesbowkett.blogspot.com/2009/03/ghetto-batman.html
+Sat Dec 05 2009 02:33:42 GMT+1300 (NZDT)»
+@ayou055 Itachi what?
+Tue Dec 01 2009 23:35:10 GMT+1300 (NZDT)»
+Also, welcome back @ayou055.
+Tue Dec 01 2009 23:34:53 GMT+1300 (NZDT)»
+Dream Theater was amazing tonight; first show in NZ, two and a quarter hours of pure win.
+Mon Nov 30 2009 19:59:23 GMT+1300 (NZDT)»
+St Wolfgang's Vampire Hunters was amazing. Still quite shattered. Didn't kill many vampires, though.
+Sun Nov 22 2009 23:03:58 GMT+1300 (NZDT)»
+Too much powaa!
+Sat Nov 21 2009 03:10:27 GMT+1300 (NZDT)»
+The MET and Code were amazing tonight. Green lasers, beautiful music, totally worth the pain and suffering.
+Fri Nov 20 2009 21:47:06 GMT+1300 (NZDT)»
+We need More Powaaa!
+Thu Nov 19 2009 16:51:22 GMT+1300 (NZDT)»
+Victory!
+Thu Nov 19 2009 15:27:37 GMT+1300 (NZDT)»
+I also love how xulrunner can (at least theoretically) run on Amiga, but not presently on Snow Leopard.
+Thu Nov 19 2009 12:17:42 GMT+1300 (NZDT)»
+Xul is so cool, yet at the same time developing with it never gets less frustrating.
+Sun Nov 15 2009 15:56:59 GMT+1300 (NZDT)»
+Argh, what do you mean documentation is forbidden? I have to read the source diffs? Again?! It's easy!? It's for my own good!?!?
+Fri Nov 13 2009 15:53:59 GMT+1300 (NZDT)»
+I also will not be coming out tonight, due to zombification + random crap. #FridayNiteLights.
+Mon Nov 09 2009 21:21:30 GMT+1300 (NZDT)»
+Hence, my second aesthetic; a sort of almost reductionist minimalism.
+Mon Nov 09 2009 21:20:46 GMT+1300 (NZDT)»
+Note: Not 'Lacanian'...
+Mon Nov 09 2009 21:20:24 GMT+1300 (NZDT)»
+Wow, Arc as a Laconian language... Madness? This is *Sparta*!
+Mon Nov 09 2009 21:08:01 GMT+1300 (NZDT)»
+Urgh, I need a less post structural aesthetic.
+Sun Nov 08 2009 20:55:27 GMT+1300 (NZDT)»
+The power!
+Fri Nov 06 2009 15:46:13 GMT+1300 (NZDT)»
+@ayou055 It also logs you out periodically if you are trying to download large files. Or are on wifi.
+Fri Nov 06 2009 14:21:59 GMT+1300 (NZDT)»
+On the up side, cookies.
+Fri Nov 06 2009 13:26:40 GMT+1300 (NZDT)»
+Netlogin is amazingly useless.
+Mon Nov 02 2009 15:26:42 GMT+1300 (NZDT)»
+I hate being sick.
+Sun Nov 01 2009 17:59:40 GMT+1300 (NZDT)»
+Wow, his wife was called Mary Sue...
+Sun Nov 01 2009 14:34:08 GMT+1300 (NZDT)»
+Arc is like rainbow popsicles for my brain.
+Sat Oct 31 2009 02:29:03 GMT+1300 (NZDT)»
+@ayou055 Twxt wanted me to tell you that he got a kiss from Erlick from Sweden.
+Fri Oct 30 2009 10:45:34 GMT+1300 (NZDT)»
+It is a strange world when continuations are cheaper than conses.
+Tue Oct 27 2009 12:43:17 GMT+1300 (NZDT)»
+Given that every solution must have a great problem...
+Sat Oct 24 2009 16:09:58 GMT+1300 (NZDT)»
+Last night was amazing. I feel totally energised, despite only sleeping for four hours. #Chemistry is going to be so cool.
+Fri Oct 23 2009 10:59:03 GMT+1300 (NZDT)»
+Multithreading and reentrancy problems are good training for time travel when dueling with multiple potential futures...
+Mon Oct 19 2009 12:57:07 GMT+1300 (NZDT)»
+Go out, stay out late, wake up early feeling fantastic, or stay in and go to sleep early, wake up late feeling like crap. Lesson learned.
+Sun Oct 18 2009 03:24:45 GMT+1300 (NZDT)»
+Verdict: acceptable.
+Sun Oct 18 2009 03:24:37 GMT+1300 (NZDT)»
+The crowd was insane, though.
+Sun Oct 18 2009 03:23:49 GMT+1300 (NZDT)»
+The base premix was good, but the mixing, beat matching and transitions were terrible; just pathologically discontinuous, no flow at all.
+Sun Oct 18 2009 03:20:35 GMT+1300 (NZDT)»
+Well, it turns out that having more than one Thursday in a week leads to many strange things. Zombie apocalypse indeed... #Thursdayniteposse
+Sat Oct 17 2009 23:07:31 GMT+1300 (NZDT)»
+Also, #Thursdayniteposse is going to be amazing tonight, regardless of the official date. Common Era my foot...
+Sat Oct 17 2009 23:06:26 GMT+1300 (NZDT)»
+Argh, Infinity! I have been in Caprica for months, why did I not realise until now?
+Sat Oct 17 2009 16:25:12 GMT+1300 (NZDT)»
+@ayou055 It was rather wiggy, but the energy was supernatural. Next time (ie tonight) you have to come.
+Sat Oct 17 2009 16:23:07 GMT+1300 (NZDT)»
+@ayou055 Dude, Caprica was dancing with Caprica. There was a lemniscate! We travelled through time, and genres!
+Fri Oct 16 2009 19:31:32 GMT+1300 (NZDT)»
+So, the MFC headers come in a separate SDK. The reason? Space. WTF?
+Thu Oct 15 2009 19:10:59 GMT+1300 (NZDT)»
+Alright, #Thursdayniteposse is on. I have newcomers. Tonight's theme is goth.
+Thu Oct 15 2009 15:24:43 GMT+1300 (NZDT)»
+And it works. All it took was dark magic.
+Thu Oct 15 2009 12:29:58 GMT+1300 (NZDT)»
+Mmmm, pasta.
+Tue Oct 13 2009 01:50:50 GMT+1300 (NZDT)»
+Much, much harsher. Must investigate chai.
+Tue Oct 13 2009 00:44:18 GMT+1300 (NZDT)»
+Urgh. Caffeine withdrawal has become much harsher over the last few days.
+Mon Oct 12 2009 00:04:31 GMT+1300 (NZDT)»
+Wow, quotes. Huh. So many things in my life are impacted by the idea and mechanics of quotation at the moment.
+Thu Oct 08 2009 18:50:09 GMT+1300 (NZDT)»
+I may be on for #Thursdayniteposse
+Thu Oct 08 2009 00:12:44 GMT+1300 (NZDT)»
+Apt-cyg doesn't work in a headless subshell because it emits characters that ruby is taking to indicate a closed pipe. Huh.
+Wed Oct 07 2009 23:42:42 GMT+1300 (NZDT)»
+It is as if apt-cyg doesn't work in a headless subshell or something...
+Wed Oct 07 2009 23:22:23 GMT+1300 (NZDT)»
+Reinstalling cygwin. Again.
+Fri Oct 02 2009 15:06:50 GMT+1300 (NZDT)»
+@ayou055 I'm at work, man.
+Fri Oct 02 2009 14:43:29 GMT+1300 (NZDT)»
+Just bought some sennheiser headphones. Totally worth it.
+Thu Oct 01 2009 20:21:05 GMT+1300 (NZDT)»
+I will not be along for this #ThursdayNitePosse
+Tue Sep 29 2009 13:28:05 GMT+1300 (NZDT)»
+Why did we ever fight? Lets never fight again. #V
+Mon Sep 28 2009 14:10:01 GMT+1300 (NZDT)»
+@NimRock_ @ayou055 Disaronno = marzipan, Agavero = tequila liqeur, Green Chartreuse = part of the preparations for the philosophers stone
+Sun Sep 27 2009 22:10:14 GMT+1300 (NZDT)»
+@NimRock_ The manga I mentioned yesterday about killer wizards is called Naruto.
+Sun Sep 27 2009 03:15:15 GMT+1300 (NZDT)»
+Urgh, so tired.
+Sat Sep 26 2009 03:40:17 GMT+1200 (NZST)»
+Okay, that was pretty cool.
+Fri Sep 25 2009 16:24:42 GMT+1200 (NZST)»
+Also, Shoes is awesome.
+Fri Sep 25 2009 16:18:53 GMT+1200 (NZST)»
+Who is coming out tonight? I missed last night, but I'd love to have a repeat of #thursdayniteposse
+Fri Sep 25 2009 12:07:18 GMT+1200 (NZST)»
+This is the Quincy pride!
+Thu Sep 24 2009 23:06:47 GMT+1200 (NZST)»
+Argh, I can't believe the solution was that simple, but also that unrelated...
+Thu Sep 24 2009 15:43:16 GMT+1200 (NZST)»
+Also, I'm approaching being in the zone for coding at the moment, which could last for an arbitrary amount of time #thursdayniteposse
+Thu Sep 24 2009 15:37:13 GMT+1200 (NZST)»
+It is raining hardcore; I'm probably not in for #thursdayniteposse
+Tue Sep 22 2009 12:14:22 GMT+1200 (NZST)»
+Argh, I feel like crap.
+Sun Sep 20 2009 20:08:23 GMT+1200 (NZST)»
+I believe that my requirements for a widget toolkit are reasonable.
+Fri Sep 18 2009 22:42:05 GMT+1200 (NZST)»
+It is full of stars...
+Thu Sep 17 2009 21:23:27 GMT+1200 (NZST)»
+It is beautiful, but it gets further and further from the genre I thought it was.
+Thu Sep 17 2009 21:01:13 GMT+1200 (NZST)»
+WTF bakemonogatori?
+Thu Sep 17 2009 20:31:11 GMT+1200 (NZST)»
+#ThursdayNitePosse Not coming tonight. Dead from nosleep + work + promise of more work to come.
+Tue Sep 15 2009 00:27:38 GMT+1200 (NZST)»
+Wow, we have internets again. Awesome.
+Tue Sep 01 2009 00:45:07 GMT+1200 (NZST)»
+Urgh. Insomnia. Serves me right for joking about it.
+Mon Aug 31 2009 18:29:36 GMT+1200 (NZST)»
+Ugh. XBL fail.
+Mon Aug 31 2009 13:09:53 GMT+1200 (NZST)»
+Need more dwimmery.
+Sun Aug 30 2009 18:03:47 GMT+1200 (NZST)»
+@ayou055 ?
+Sun Aug 30 2009 16:23:49 GMT+1200 (NZST)»
+@djrubbie It took me around an hour, but I'm a bit of a noob.
+Sun Aug 30 2009 16:23:22 GMT+1200 (NZST)»
+@djrubbie there is a package you can apt-get to do it, if you change some of your settings. There are prolly instructions on the kde website
+Sun Aug 30 2009 01:16:57 GMT+1200 (NZST)»
+@djrubbie not 4.3?
+Thu Aug 27 2009 01:54:53 GMT+1200 (NZST)»
+woe32 is right; that format certainly isn't win.
+Tue Aug 25 2009 17:35:02 GMT+1200 (NZST)»
+Definitely more.
+Tue Aug 25 2009 13:36:52 GMT+1200 (NZST)»
+Okay, I hate XP, Cygwin, MSVC et al just as much as ever. Possibly more.
+Tue Aug 25 2009 00:50:12 GMT+1200 (NZST)»
+Wow, so, it really is slow. And XP is just as painful as ever. Still, architecture level translation...
+Mon Aug 24 2009 23:37:09 GMT+1200 (NZST)»
+@ayou055 Just call me Mr Red Dawn. Or New Order. Depending on how you render the kanji. Heck, why not both simultaneously...
+Mon Aug 24 2009 23:35:36 GMT+1200 (NZST)»
+@ayou055 It makes me each and every one of the several most powerful men in the universe, at the same time.
+Mon Aug 24 2009 22:01:36 GMT+1200 (NZST)»
+Though without kqemu, and with translating to different hardware, it is very very slow.
+Mon Aug 24 2009 21:59:30 GMT+1200 (NZST)»
+The Power of Qemu just doesn't sound as awesome as The Power of Greyskull. Nevertheless, it is far more relevant.
+Sun Aug 23 2009 23:28:14 GMT+1200 (NZST)»
+Argh, Potion and Metalua both seem to have fallen into torpor... They were so cool...
+Sun Aug 23 2009 23:11:56 GMT+1200 (NZST)»
+And some days, stuff just doesn't work.
+Sun Aug 23 2009 23:11:42 GMT+1200 (NZST)»
+Sometimes I really like xulrunner, and sometimes I really hate it.
+Sat Aug 22 2009 11:21:48 GMT+1200 (NZST)»
+@ayou055 You will be joining me tonight for town red painting, yes? #ThursdayNitePosse
+Sat Aug 22 2009 11:20:55 GMT+1200 (NZST)»
+#ThursdayNitePosse who is available for painting the town red tonight?
+Sat Aug 22 2009 01:17:49 GMT+1200 (NZST)»
+Also also, no more Potion. Metalua it must be.
+Sat Aug 22 2009 01:17:19 GMT+1200 (NZST)»
+Also, rebasing hell...
+Sat Aug 22 2009 01:16:54 GMT+1200 (NZST)»
+@djrubbie Are you up to date with Naruto yet?
+Thu Aug 20 2009 13:03:42 GMT+1200 (NZST)»
+Right, nothing works. This makes no sense.
+Wed Aug 19 2009 17:20:16 GMT+1200 (NZST)»
+Sections 8 and 9 finally set aside the more sober ideas (like solving the halting problem using naked singularities), and ...
+Tue Aug 18 2009 13:33:42 GMT+1200 (NZST)»
+@revJamesLawson Honestly, I'd like to take a week or so, much like the others who have had the same thing. Not sure that is an option though
+Tue Aug 18 2009 12:58:07 GMT+1200 (NZST)»
+And that chunk, I am in the middle of totally refactoring.
+Tue Aug 18 2009 12:57:30 GMT+1200 (NZST)»
+It's weird, but everything that I really want to do with OpenCell at the moment touches one particular chunk of the codebase.
+Tue Aug 18 2009 12:03:34 GMT+1200 (NZST)»
+Right, I now see why some people were sick for weeks with this flu. I look like a zombie.
+Mon Aug 17 2009 22:26:45 GMT+1200 (NZST)»
+@revJamesLawson Yeah, I'm still pretty dead; I guess the flu I've got has also got many others.
+Sat Aug 15 2009 21:04:58 GMT+1200 (NZST)»
+Urgh, I hate the feeling of the immediate awareness of asthma.
+Sat Aug 15 2009 12:45:20 GMT+1200 (NZST)»
+Anti blends are the new blend?
+Fri Aug 14 2009 15:56:57 GMT+1200 (NZST)»
+Hmm, certain formalisms are just smuggling declarative programming into languages with other paradigms...
+Fri Aug 14 2009 10:20:46 GMT+1200 (NZST)»
+@ayou055 I probably won't be in today; I'm at home sick. Bleh, stupid flu.
+Thu Aug 13 2009 21:08:31 GMT+1200 (NZST)»
+But the luster has gone for me from this decade's fetish for reimaginings.
+Thu Aug 13 2009 21:07:13 GMT+1200 (NZST)»
+The Books of Magic were a sublime metaphysical exploration. The first Book of Magick is rather disappointing. I still have some hope...
+Thu Aug 13 2009 15:57:51 GMT+1200 (NZST)»
+Of course the basic concept will be old hat to computer scientists, who live and die by the phrase, “Assuming P != NP, . . . ”
+Thu Aug 13 2009 15:39:05 GMT+1200 (NZST)»
+sudo gem install hubris
+Thu Aug 13 2009 09:06:48 GMT+1200 (NZST)»
+@ayou055 More like Mario and Final Fantasy meets Daft Punk...
+Thu Aug 13 2009 00:25:50 GMT+1200 (NZST)»
+Wow, 80's and early 90's video game music is truly amazing. Remixes are also truly amazing. Two great tastes that taste great together.
+Tue Aug 11 2009 01:04:47 GMT+1200 (NZST)»
+My HP laptop has worked for only one fifth of the time I have owned it. I get it back from being serviced in a few days. If it dies again...
+Mon Aug 10 2009 23:08:46 GMT+1200 (NZST)»
+Why doesn't ypath already exist in some working form?
+Fri Aug 07 2009 10:15:34 GMT+1200 (NZST)»
+@ayou055 I need to pick up the pipes, don't I?
+Fri Aug 07 2009 00:02:30 GMT+1200 (NZST)»
+@ayou055 Pssh, what I'm doing is perfectly linear these days; it's totally sleeper friendly.
+Thu Aug 06 2009 23:52:20 GMT+1200 (NZST)»
+@ayou055 Nope, we decided to generate both C++ and javascript at build time from a reasonably simple set of data structures.
+Thu Aug 06 2009 22:08:04 GMT+1200 (NZST)»
+Huh. The Prince of 10,000 Leaves. Dreams. The past. The future as told from a position outside time. Problematic.
+Thu Aug 06 2009 21:10:40 GMT+1200 (NZST)»
+Urgh. Need more super fire.
+Thu Aug 06 2009 19:17:31 GMT+1200 (NZST)»
+I'd be keen for coffee, rather than the usual clubbing #ThursdayNitePosse
+Wed Aug 05 2009 14:33:55 GMT+1200 (NZST)»
+You can't fight fire with fire. You have to use super fire.
+Sun Aug 02 2009 22:05:41 GMT+1200 (NZST)»
+@ayou055 It is to convert from a procedural to a declarative form of mathematical notation.
+Sun Aug 02 2009 22:04:39 GMT+1200 (NZST)»
+@ayou055 Shoes is a Ruby GUI framework. Very light, very nice. I'm writing a stupid script, but I want to put a nice front end on it.
+Sun Aug 02 2009 21:05:48 GMT+1200 (NZST)»
+Right, Shoes it is.
+Sun Aug 02 2009 19:41:52 GMT+1200 (NZST)»
+Sleep is treacherous.
+Sat Aug 01 2009 03:24:52 GMT+1200 (NZST)»
+Why can I not sleep, ever?
+Sat Aug 01 2009 00:01:16 GMT+1200 (NZST)»
+Oh wow; Naruto is just getting better and better.
+Thu Jul 30 2009 08:45:07 GMT+1200 (NZST)»
+#ThursdayNitePosse I think I will pass tonight; I'm weary already and the day has yet to begin. Why does this time of day even exist?
+Wed Jul 29 2009 17:31:09 GMT+1200 (NZST)»
+Scratch that, I want to use an RDF serialisation of the DOM+CellML structure, augmented with OpenCell specific display stuff. So wrong...
+Wed Jul 29 2009 16:17:28 GMT+1200 (NZST)»
+Right, I think I should go with an RDF serialisation of XML, and then augment it. This is backwards all the way down...
+Mon Jul 27 2009 11:57:22 GMT+1200 (NZST)»
+Okay, I think I can write a passable (for my use) mod_potion using cgic... This project is rabbit holes all the way down.
+Fri Jul 24 2009 16:03:54 GMT+1200 (NZST)»
+Need more dark magic.
+Fri Jul 24 2009 02:18:16 GMT+1200 (NZST)»
+I was happy to call it so that I would get to work in the morning. Also, I needed Daft Punk and the club was not providing #ThurdayNitePosse
+Fri Jul 24 2009 02:06:27 GMT+1200 (NZST)»
+@djrubbie alas my vocabulary is constrained to that which is dvcs neutral, and which does not assume any kind of continuity condition.
+Fri Jul 24 2009 02:04:42 GMT+1200 (NZST)»
+#ThursdayNitePosse was excellent, as always.
+Thu Jul 23 2009 16:33:19 GMT+1200 (NZST)»
+How do I concisely talk about a set of changesets? Patch # (which comprises changesets #...)?
+Thu Jul 23 2009 11:21:06 GMT+1200 (NZST)»
+#ThursdayNitePosse I'll be along to Minuit probably, but not before 9:30pm.
+Thu Jul 23 2009 00:17:11 GMT+1200 (NZST)»
+Right, madness pays off. Oh, we know alpha around here...
+Wed Jul 22 2009 01:27:53 GMT+1200 (NZST)»
+Hmm. In my madness, it appears that I forgot sleep. On the other hand, creating complex anaphoric control structures with reader macros...
+Wed Jul 22 2009 00:18:29 GMT+1200 (NZST)»
+Indeed. There is no other choice.
+Tue Jul 21 2009 21:51:26 GMT+1200 (NZST)»
+So, new data/data manipulation vocabulary it is.
+Tue Jul 21 2009 00:05:07 GMT+1200 (NZST)»
+From _why: "Sanity tests are outmoded. We’re all sane here. Or past sanity, we’re on to the next thing."
+Mon Jul 20 2009 23:41:51 GMT+1200 (NZST)»
+@djrubbie Okay, by 'sane' I really meant fast. Not sane.
+Mon Jul 20 2009 23:28:14 GMT+1200 (NZST)»
+Right, I think that Potion is going to work out the way Metalua hasn't. Assuming, that is, that I can wire it up to Apache in a sane way.
+Mon Jul 20 2009 14:10:58 GMT+1200 (NZST)»
+Apparently I can. Hmm.
+Mon Jul 20 2009 13:57:03 GMT+1200 (NZST)»
+Why can't I use null as a key?
+Sun Jul 19 2009 16:01:19 GMT+1200 (NZST)»
+@djrubbie Also, 3:38am on a Sunday? Madness. Impressive, but also mad. Good luck, man.
+Sun Jul 19 2009 15:53:50 GMT+1200 (NZST)»
+@djrubbie Indeed. The parts are possible to source, but until now I had thought it would be too much effort for too little gain.
+Sun Jul 19 2009 15:46:59 GMT+1200 (NZST)»
+That makes it three weeks my laptop has worked this time. Is a month too much to ask?
+Sun Jul 19 2009 15:32:39 GMT+1200 (NZST)»
+More disappointed than impressed with HP. Laptop has died the bad death. Again.
+Sun Jul 19 2009 01:04:45 GMT+1200 (NZST)»
+So many birthdays, so little time.
+Fri Jul 17 2009 18:40:33 GMT+1200 (NZST)»
+@ayou055 electro dubstep calls to you.
+Thu Jul 16 2009 20:41:43 GMT+1200 (NZST)»
+Why do mystery cults always have to structure their internal historiography by way of analogy with a common and overlooked occupation?
+Thu Jul 16 2009 20:39:24 GMT+1200 (NZST)»
+@ayou055 My creativity was pretty tapped out; Tuesday was a long, vexing day. xml:base != good foreign key, no matter what you may think.
+Thu Jul 16 2009 19:48:24 GMT+1200 (NZST)»
+@ayou055 @TehReal_YouFool #Misc is such an interesting thing...
+Thu Jul 16 2009 18:19:50 GMT+1200 (NZST)»
+Have I ever mentioned how much I hate MSVC?
+Wed Jul 15 2009 23:44:47 GMT+1200 (NZST)»
+Indeed. #TheDarkFuture is coming; there is so much left to do, and so little time.
+Wed Jul 15 2009 23:40:23 GMT+1200 (NZST)»
+It's all so clear now.
+Wed Jul 15 2009 16:50:30 GMT+1200 (NZST)»
+Mercurial is has one less likeness to the nimble one on a Win32 VM. That is all.
+Tue Jul 14 2009 17:25:49 GMT+1200 (NZST)»
+The only true magic is no magic...
+Tue Jul 14 2009 00:51:23 GMT+1200 (NZST)»
+@ayou055 It truly is a parable for our time. The sharingan = a particular political ideology, which comes cloaked in many forms...
+Tue Jul 14 2009 00:49:25 GMT+1200 (NZST)»
+@ayou055 He want to be all of the Shadows, _at the same time_, as well as the great adversary of the hidden villages...
+Tue Jul 14 2009 00:47:10 GMT+1200 (NZST)»
+@ayou055 Ah, it all makes sense! The cloud...
+Tue Jul 14 2009 00:46:12 GMT+1200 (NZST)»
+@ayou055 Huh, this was all foreshadowed - Itachi gave half of himself to Sasuke, and half to Naruto. Two eyes, one left, one right...
+Tue Jul 14 2009 00:44:10 GMT+1200 (NZST)»
+@ayou055 Where by Mizukage we mean Madara Uchiha... The ultimate form of the sharingan, redundant, sharded distributed computing...
+Tue Jul 14 2009 00:12:53 GMT+1200 (NZST)»
+sharingan!Danzou wtf?
+Fri Jul 10 2009 14:57:49 GMT+1200 (NZST)»
+Ugh, I feel so crap at the moment.
+Mon Jul 06 2009 23:36:34 GMT+1200 (NZST)»
+@ayou055 Indeed, do not blink.
+Mon Jul 06 2009 01:20:23 GMT+1200 (NZST)»
+@djrubbie Sleep probably would be the best idea; the banality of my comments indicate that I am not far off it...
+Sun Jul 05 2009 23:08:36 GMT+1200 (NZST)»
+Why isn't there a xulrunner 1.9.1 official release yet? It hurts me so...
+Sun Jul 05 2009 19:09:55 GMT+1200 (NZST)»
+@ayou055 I used about 500ml of Hennessey VS making the sauce. It was excessive.
+Sun Jul 05 2009 18:10:50 GMT+1200 (NZST)»
+Crepes were meh. Used too much cognac, not enough lemon rind.
+Sun Jul 05 2009 02:00:36 GMT+1200 (NZST)»
+@ayou055 No, I was wrong. I think it actually is insomnia. Huh.
+Sun Jul 05 2009 01:22:24 GMT+1200 (NZST)»
+@ayou055 I was trying to get my head around metalua, and get kepler going. I'm now reading to wind down; I need to make crepes tomorrow.
+Sun Jul 05 2009 00:44:33 GMT+1200 (NZST)»
+Dreaming of factories...
+Fri Jul 03 2009 20:41:04 GMT+1200 (NZST)»
+@ayou055 I decided to take the fight to the hypothetical other. This may result in the reification of the other. Wtf, Dorian.
