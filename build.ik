@@ -40,7 +40,7 @@ date2url = method("Get url slug from date text - the disambiguater is added in t
   return "#{year}/#{month}/#{day}/")
 
 tweets = FileSystem readFully("tweets.txt")
-split_tweets = tweets split("\n")
+split_tweets = tweets split("\n") reverse
 collected_tweets = []
 collected_tweet = {}
 state = :date
@@ -59,11 +59,11 @@ split_tweets each(tweep,
       collected_tweet[:previous_longurl] = collected_tweets[-1][:url]
       collected_tweets[-1][:next_longurl] = collected_tweet[:url],
       collected_tweet[:url] = date2url(collected_tweet[:date]) + "/0.html")
+    collected_tweets push!(collected_tweet)
+    collected_tweet = {}
     state = :content,
     collected_tweet[:linkified] = linkify(collected_tweet[:content])
-    state = :date
-    collected_tweets push!(collected_tweet)
-    collected_tweet = {}))
+    state = :date))
 
 collected_tweets each(tweet,
   GenX build(base: base,
