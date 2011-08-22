@@ -19,7 +19,7 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
       `(if(data[:prev_longurl] == nil || data[:prev_longurl] empty?,
           ''(a(href: "http://flaviusb.net/tweets/#{`data[:prev_longurl]}")  abbr(title="Previous") "←"),
           '(span(class: "grey")  abbr(title="Previous") "←")))
-      "| &nbsp; "
+      "| &#160; "
       `(if(data[:next_longurl] == nil || data[:next_longurl] empty?,
           ''(a(href: "http://flaviusb.net/tweets/#{`data[:next_longurl]}")  abbr(title="Next") "→"),
           '(span(class: "grey")  abbr(title="Next") "→")))
@@ -27,7 +27,7 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
       //(p(class: "shorturl") "http://flaviusb.me/#{`data[:shorturl]}")
     (p
       a(href: "http://flaviusb.net") "Home"
-      " &nbsp; | &nbsp; "
+      " &#160; | &#160; "
       a(rel: "index", href: "http://flaviusb.net/tweets/") "Tweets"
-      " &nbsp; | &nbsp; "
+      " &#160; | &#160; "
       a(href: "http://github.com/flaviusb") "Code"))))
