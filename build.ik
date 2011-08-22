@@ -50,6 +50,7 @@ state = :content
 split_tweets each(tweep,
   collected_tweet[state] = tweep
   if(state == :date,
+    collected_tweet[:date] = collected_tweet[:date][0...-1]
     collected_tweet[:datetime] = datetimeify(collected_tweet[:date])
     if(!(collected_tweets empty?),
       prev_url = collected_tweets[-1][:url]

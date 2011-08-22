@@ -14,7 +14,7 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
   `style("#{`base}syntax.css")
   link(rel: "shortcut icon", href: "#{`base}favicon.png", type: "image/png"))
   (body 
-    (ul(class: "posts") li (span a(href: "http://flaviusb.net/tweets/#{`data[:url]}", title: "#{`data[:date]}") time(pubdate: "true", datetime="#{`data[:datetime]}") "#{`data[:datetime]}") div "#{`data[:linkified]}")
+    (ul(class: "posts") li (span a(href: "http://flaviusb.net/tweets/#{`data[:url]}", title: "#{`data[:date]}") time(pubdate: "true", datetime="#{`data[:datetime]}") "#{`data[:datetime]}»") div "#{`data[:linkified]}")
     (div(class: "sidebox")
       (`(if(data[:prev_longurl] == nil || data[:prev_longurl] empty?,
            '(span(class: "grey")  abbr(title="Previous") "←"),
