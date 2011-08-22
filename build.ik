@@ -43,7 +43,7 @@ tweets = FileSystem readFully("tweets.txt")
 split_tweets = tweets split("\n") reverse
 collected_tweets = []
 collected_tweet = {}
-state = :date
+state = :content
 split_tweets each(tweep,
   collected_tweet[state] = tweep
   if(state == :date,
