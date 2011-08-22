@@ -31,7 +31,7 @@ linkify = method("Add in links to the tweet text - a nop for present", text,
   text)
 
 sanitize = method("Escape <, >, &, ' and \"", text,
-  text replaceAll("&", "&amp;") replaceAll("<", "&lt;") replaceAll(">", "&rt;") replaceAll(#["], "&quot;") replaceAll("'", "&apos;"))
+  text replaceAll("&", "&amp;") replaceAll("<", "&lt;") replaceAll(">", "&gt;") replaceAll(#["], "&quot;") replaceAll("'", "&apos;"))
 
 date2url = method("Get url slug from date text - the disambiguater is added in the main loop rather than here", text,
   month = swap[text[4..6]]
