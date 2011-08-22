@@ -47,6 +47,7 @@ state = :date
 split_tweets each(tweep,
   collected_tweet[state] = tweep
   if(state == :date,
+    collected_tweet[:datetime] = datetimeify(collected_tweet[:date])
     if(!(collected_tweets empty?),
       prev_url = collected_tweets[-1][:url]
       prev_slug = prev_url split("/") [0...-1] join("/") + "/"
@@ -60,10 +61,9 @@ split_tweets each(tweep,
       collected_tweet[:url] = date2url(collected_tweet[:date]) + "/0.html")
     state = :content,
     collected_tweet[:linkified] = linkify(collected_tweet[:content])
-    state = :date)
-  collected_tweet[:datetime]  = datetimeify(collected_tweet[:date])
-  collected_tweets push!(collected_tweet)
-  collected_tweet = {})
+    state = :date
+    collected_tweets push!(collected_tweet)
+    collected_tweet = {}))
 
 collected_tweets each(tweet,
   GenX build(base: base,
