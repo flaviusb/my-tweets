@@ -56,7 +56,7 @@ split_tweets each(tweep,
       if(curr_slug == prev_slug,
         collected_tweet[:url] = curr_slug + (prev_ord + 1) + ".html",
         collected_tweet[:url] = curr_slug + "0.html")
-      collected_tweet[:previous_longurl] = collected_tweets[-1][:url]
+      collected_tweet[:prev_longurl] = collected_tweets[-1][:url]
       collected_tweets[-1][:next_longurl] = collected_tweet[:url],
       collected_tweet[:url] = date2url(collected_tweet[:date]) + "/0.html")
     collected_tweets push!(collected_tweet)
