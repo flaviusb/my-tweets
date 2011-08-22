@@ -19,6 +19,10 @@ fs.readFile 'conf.json', 'utf-8', (err, data) ->
       access_token_secret: conf.a_t_s
   })
   newtweet = process.argv[2]
+  shorttext = newtweet
+  #if fulltext.length > 14
+  #  endslug = 
+  #  shorttext
   twit.updateStatus shorttext, (err) ->
     if err?
       console.log err
