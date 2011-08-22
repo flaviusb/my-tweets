@@ -40,7 +40,7 @@ date2url = method("Get url slug from date text - the disambiguater is added in t
   return "#{year}/#{month}/#{day}/")
 
 tweets = FileSystem readFully("tweets.txt")
-split_tweets = tweets split("»")
+split_tweets = tweets split("\n")
 collected_tweets = []
 collected_tweet = {}
 state = :date
