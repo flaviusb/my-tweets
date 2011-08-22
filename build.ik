@@ -75,7 +75,7 @@ collected_tweets each(tweet,
   individual_rendered_posts unshift!(XML render(XML fromQuotedFile("post.ik", context: XML mimic with(data: tweet)))))
 
 index_data = {
-  rendered_posts: individual_rendered_posts join("/n")
+  rendered_posts: individual_rendered_posts join("\n")
 }
 
 GenX build(base: "/var/www/flaviusb.net/htdocs/",
