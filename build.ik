@@ -65,6 +65,17 @@ split_tweets each(tweep,
     collected_tweet[:linkified] = linkify(collected_tweet[:content])
     state = :date))
 
+individual_rendered_posts = []
 collected_tweets each(tweet,
   GenX build(base: base,
-    (tweet => tweet[:url]) => "tweet.ik"))
+    (tweet => tweet[:url]) => "tweet.ik")
+  individual_rendered_posts unshift!(XML render(XML fromQuotedFile("post.ik", context: XML mimic with(data: tweet)))))
+
+index_data = {
+  rendered_posts: individual_rendered_posts join("/n")
+}
+
+GenX build(base: base,
+  (index_data => "index.html") => "index.ik")
+  
+
