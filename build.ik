@@ -1,4 +1,4 @@
-base = "/var/www/flaviusb.net/tweets/"
+base = "/var/www/flaviusb.net/htdocs/tweets/"
 
 GenX baseURI = "http://flaviusb.net/"
 
@@ -51,7 +51,7 @@ split_tweets each(tweep,
     if(!(collected_tweets empty?),
       prev_url = collected_tweets[-1][:url]
       prev_slug = prev_url split("/") [0...-1] join("/") + "/"
-      prev_ord = prev_url split("/") [-1] split(".") [0] toDecimal
+      prev_ord = prev_url split("/") [-1] split(".") [0] toRational
       curr_slug = date2url(collected_tweet[:date])
       if(curr_slug == prev_slug,
         collected_tweet[:url] = curr_slug + (prev_ord + 1) + ".html",
