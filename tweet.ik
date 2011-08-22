@@ -16,13 +16,13 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
   (body 
     (ul(class: "posts") li (span a(href: "http://flaviusb.net/tweets/#{`data[:url]}", title: "#{`data[:date]}") time(pubdate: "true", datetime="#{`data[:datetime]}") "#{`data[:datetime]}") div "#{`data[:linkified]}")
     (div(class: "sidebox")
-      `(if(data[:prev_longurl] == nil || data[:prev_longurl] empty?,
-           '((span(class: "grey")  abbr(title="Previous") "←"))),
-           ''((a(href: "http://flaviusb.net/tweets/#{`data[:prev_longurl]}")  abbr(title="Previous") "←")))
+      (`(if(data[:prev_longurl] == nil || data[:prev_longurl] empty?,
+           '(span(class: "grey")  abbr(title="Previous") "←"),
+           ''(a(href: "http://flaviusb.net/tweets/#{`data[:prev_longurl]}")  abbr(title="Previous") "←"))))
       "| &#160; "
-      `(if(data[:next_longurl] == nil || data[:next_longurl] empty?,
-           '((span(class: "grey")  abbr(title="Next") "→"))),
-           ''((a(href: "http://flaviusb.net/tweets/#{`data[:next_longurl]}")  abbr(title="Next") "→")))
+      (`(if(data[:next_longurl] == nil || data[:next_longurl] empty?,
+           '(span(class: "grey")  abbr(title="Next") "→"),
+           ''(a(href: "http://flaviusb.net/tweets/#{`data[:next_longurl]}")  abbr(title="Next") "→"))))
       (p(class: "longurl") "http://flaviusb.net/tweets/#{`data[:url]}")
       //(p(class: "shorturl") "http://flaviusb.me/#{`data[:shorturl]}")
     (p
