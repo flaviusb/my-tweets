@@ -30,6 +30,9 @@ datetimeify  = method("Turn the friendly text format into the braindead html5 ti
 linkify = method("Add in links to the tweet text - a nop for present", text,
   text)
 
+sanitize = method("Escape <, >, &, ' and \"", text,
+  text replaceAll("&", "&amp;") replaceAll("<", "&lt;") replaceAll(">", "&rt;") replaceAll(#["], "&quot;") replaceAll("'", "&apos;"))
+
 date2url = method("Get url slug from date text - the disambiguater is added in the main loop rather than here", text,
   month = swap[text[4..6]]
   ; trim day the stupid way
@@ -62,7 +65,7 @@ split_tweets each(tweep,
     collected_tweets push!(collected_tweet)
     collected_tweet = {}
     state = :content,
-    collected_tweet[:linkified] = linkify(collected_tweet[:content])
+    collected_tweet[:linkified] = linkify(sanitize(collected_tweet[:content]))
     state = :date))
 
 individual_rendered_posts = []
