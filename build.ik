@@ -75,7 +75,7 @@ index_data = {
   rendered_posts: individual_rendered_posts join("/n")
 }
 
-GenX build(base: base,
-  (index_data => "index.html") => "index.ik")
+GenX build(base: "/var/www/flaviusb.net/htdocs/",
+  (index_data => "tweets.html") => "index.ik")
   
 
