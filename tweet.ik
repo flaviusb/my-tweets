@@ -24,10 +24,10 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
            '(span(class: "grey")  abbr(title="Next") "→"),
            ''(a(href: "http://flaviusb.net/tweets/#{`data[:next_longurl]}")  abbr(title="Next") "→"))))
       (p(class: "longurl") "http://flaviusb.net/tweets/#{`data[:url]}")
-      //(p(class: "shorturl") "http://flaviusb.me/#{`data[:shorturl]}")
+      //(p(class: "shorturl") "http://flaviusb.me/#{`data[:shorturl]}"))
     (p
       a(href: "http://flaviusb.net") "Home"
       " &#160; | &#160; "
       a(rel: "index", href: "http://flaviusb.net/tweets/") "Tweets"
       " &#160; | &#160; "
-      a(href: "http://github.com/flaviusb") "Code"))))
+      a(href: "http://github.com/flaviusb") "Code")))
