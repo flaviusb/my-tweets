@@ -13,6 +13,7 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
   `style("#{`base}style.css")
   `style("#{`base}syntax.css")
   `style("#{`base}mono.css")
+  `style("#{`base}container.css")
   link(rel: "shortcut icon", href: "#{`base}favicon.png", type: "image/png"))
   (body 
     (ul(class: "posts") li (span a(href: "http://flaviusb.net/tweets/#{`data[:url]}", title: "#{`data[:date]}") time(pubdate: "true", datetime: "#{`data[:datetime]}") "#{`data[:datetime]}»") div "#{`data[:linkified]}")
