@@ -12,6 +12,7 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
   `style("#{`base}reset.css")
   `style("#{`base}style.css")
   `style("#{`base}syntax.css")
+  `style("#{`base}mono.css")
   link(rel: "shortcut icon", href: "#{`base}favicon.png", type: "image/png"))
   (body 
     (ul(class: "posts") li (span a(href: "http://flaviusb.net/tweets/#{`data[:url]}", title: "#{`data[:date]}") time(pubdate: "true", datetime: "#{`data[:datetime]}") "#{`data[:datetime]}»") div "#{`data[:linkified]}")
@@ -22,8 +23,8 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
       (`(if(data[:next_longurl] == nil || data[:next_longurl] empty?,
            '(span(class: "grey")  abbr(title: "Next") "→"),
            ''(a(href: "http://flaviusb.net/tweets/#{`data[:next_longurl]}")  abbr(title: "Next") "→"))))
-      (label (span "permalink:") input(size: "26", class: "url permalink", readonly: "readonly", value: "http://flaviusb.net/tweets/#{`data[:url]}", type: "url"))
-      //(label (span "shortlink:") input(size: "26", class: "url permalink", readonly: "readonly", value: "http://flaviusb.me/#{`data[:shorturl]}", type: "url")))
+      (form(action: "") (label (span "permalink:") input(size: "26", class: "url permalink", readonly: "readonly", value: "http://flaviusb.net/tweets/#{`data[:url]}", type: "url"))
+      //(label (span "shortlink:") input(size: "26", class: "url permalink", readonly: "readonly", value: "http://flaviusb.me/#{`data[:shorturl]}", type: "url"))))
     (p
       a(href: "http://flaviusb.net") "Home"
       " &#160; | &#160; "
