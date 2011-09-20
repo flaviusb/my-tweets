@@ -1,5 +1,5 @@
-Tue Sep 20 2011 16:31:04 GMT+1200 (NZST)»
-Urgh. I have inadvertently become an advocate of paraconsistent logic to avoid some minor problems ie the need to destroy the entire universe.
+Tue Sep 20 2011 16:33:09 GMT+1200 (NZST)»
+Urgh. I have inadvertently become an advocate of paraconsistent logic to avoid minor problems ie the need to destroy the entire universe.
 Mon Sep 19 2011 21:53:15 GMT+1200 (NZST)»
 Man, I love reverse proxies. So hard to believe that we used to have to use CGI or equivalent to do this stuff.
 Fri Sep 02 2011 04:12:22 GMT+1200 (NZST)»
