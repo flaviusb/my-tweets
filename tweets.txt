@@ -1,3 +1,5 @@
+Mon Oct 17 2011 21:36:05 GMT+1300 (NZDT)»
+It just hit me; existence of one way functions (and thus secure crypto), efficient markets (and thus the truth of various ideologies)...
 Tue Oct 11 2011 00:11:58 GMT+1300 (NZDT)»
 @djrubbie as a tl;dr: dbus is not as stupid as corba, nor as indescribably horrific as xpcom; qdbus+completions+shell = happy fun times.
 Mon Oct 10 2011 20:39:01 GMT+1300 (NZDT)»
