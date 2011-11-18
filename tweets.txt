@@ -1,3 +1,5 @@
+Fri Nov 18 2011 16:41:29 GMT+1300 (NZDT)»
+I thought I understood quasiquotation from experience with Lisp and Forth. Then I started learning how Haskell does it. Head explodes.
 Fri Nov 18 2011 15:47:29 GMT+1300 (NZDT)»
 Not sure if this diagram of object/meta levels and instance/type levels is commutative in the ways I want it to be...
 Thu Oct 27 2011 15:25:36 GMT+1300 (NZDT)»
