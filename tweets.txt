@@ -1,3 +1,5 @@
+Fri Nov 18 2011 15:47:29 GMT+1300 (NZDT)»
+Not sure if this diagram of object/meta levels and instance/type levels is commutative in the ways I want it to be...
 Thu Oct 27 2011 15:25:36 GMT+1300 (NZDT)»
 OH: 'Making our bards responsible for the laws was the smartest thing I ever did.'
 Thu Oct 27 2011 15:07:53 GMT+1300 (NZDT)»
