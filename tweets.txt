@@ -1,3 +1,5 @@
+Fri Nov 25 2011 18:52:47 GMT+1300 (NZDT)»
+If you prefer, I could just edit your memories. No? Okay then.
 Fri Nov 18 2011 16:41:29 GMT+1300 (NZDT)»
 I thought I understood quasiquotation from experience with Lisp and Forth. Then I started learning how Haskell does it. Head explodes.
 Fri Nov 18 2011 15:47:29 GMT+1300 (NZDT)»
