@@ -1,3 +1,5 @@
+Tue Nov 29 2011 17:14:21 GMT+1300 (NZDT)»
+A problem with using money as a sensor occurs to me: if you do, then having any bogus source of revenue will make you insane.
 Tue Nov 29 2011 15:27:13 GMT+1300 (NZDT)»
 Wow, a Java web framework that actually looks quite... nice. http://codahale.com/what-makes-jersey-interesting-parameter-classes/
 Fri Nov 25 2011 19:59:29 GMT+1300 (NZDT)»
