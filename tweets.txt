@@ -1,3 +1,5 @@
+Tue Nov 29 2011 15:27:13 GMT+1300 (NZDT)»
+Wow, a Java web framework that actually looks quite... nice. http://codahale.com/what-makes-jersey-interesting-parameter-classes/
 Fri Nov 25 2011 19:59:29 GMT+1300 (NZDT)»
 Bad exocortex, no cookie.
 Fri Nov 25 2011 18:52:47 GMT+1300 (NZDT)»
