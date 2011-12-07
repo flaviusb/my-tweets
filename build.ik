@@ -17,6 +17,21 @@ swap = {
   "Dec" => 12
 }
 
+swap2 = {
+  "Jan" => "01",
+  "Feb" => "02",
+  "Mar" => "03",
+  "Apr" => "04",
+  "May" => "05",
+  "Jun" => "06",
+  "Jul" => "07",
+  "Aug" => "08",
+  "Sep" => "09",
+  "Oct" => "10",
+  "Nov" => "11",
+  "Dec" => "12"
+}
+
 datetimeifyhtml5  = method("Turn the friendly text format into the braindead html5 time element format", text,
   month = swap[text[4..6]]
   day = text[8..9]
@@ -28,7 +43,7 @@ datetimeifyhtml5  = method("Turn the friendly text format into the braindead htm
   return "#{year}-#{month}-#{day}T#{hour}:#{minute}:#{second}#{tzoffset}")
 
 datetimeifyatom  = method("Turn the friendly text format into the braindead html5 time element format", text,
-  month = swap[text[4..6]]
+  month = swap2[text[4..6]]
   day = text[8..9]
   year = text[11..14]
   hour = text[16..17]
