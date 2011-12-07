@@ -14,7 +14,8 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
   `style("#{`base}syntax.css")
   `style("#{`base}mono.css")
   `style("#{`base}container.css")
-  link(rel: "shortcut icon", href: "#{`base}favicon.png", type: "image/png"))
+  link(rel: "shortcut icon", href: "#{`base}favicon.png", type: "image/png")
+  link(href: "http://flaviusb.net/tweets/atom0.atom", type: "application/atom+xml", rel: "alternate", title: "Tweet Atom Feed"))
   (body 
     (ul(class: "posts") "#{`data[:rendered_posts]}")
     (p
