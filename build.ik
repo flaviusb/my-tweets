@@ -90,7 +90,7 @@ tweet_counter = 0
 tweets_per_page = 50
 total_tweets = individual_rendered_posts length
 page_num = 0
-while(tweet_counter <= total_tweets,
+while(tweet_counter < total_tweets,
   atom_data = {
     entries: collected_tweets[tweet_counter...(tweet_counter+tweets_per_page)],
     updated: collected_tweets[0][:datetime],
