@@ -3,7 +3,7 @@ entry = method("Add entry in place", title, url, updated, id, content,
           (title "#{`title}")
           link(href: "#{`url}")
           (updated "#{`updated}")
-          (id "http://flaviusb.net/#{`id}")
+          (id "#{`id}")
           (content(type: "html") "#{`content}")).)
 )
 ; foo = [{title: "A", url: "A", updated: "just now", id: "A", content: "The flergy blergy wergied the clergy."},
@@ -13,8 +13,8 @@ entries = dsyntax("Map entries data to entries",
   basecase = nil
   theentries each(anentry, 
     if(basecase == nil,
-      basecase = entry(anentry[:date], anentry[:url], anentry[:datetime], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified]),
-      basecase last -> entry(anentry[:date], anentry[:url], anentry[:datetime], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified])))
+      basecase = entry(anentry[:date], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:datetime], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified]),
+      basecase last -> entry(anentry[:date], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:datetime], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified])))
   ''(''(`basecase))
 )
 guard = dsyntax("guard(a, b, c) = c if a is nil, otherwise b.",
