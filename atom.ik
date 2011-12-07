@@ -13,8 +13,8 @@ entries = dsyntax("Map entries data to entries",
   basecase = nil
   theentries each(anentry, 
     if(basecase == nil,
-      basecase = entry(anentry[:date], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:datetime], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified]),
-      basecase last -> entry(anentry[:date], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:datetime], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified])))
+      basecase = entry(anentry[:date], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:datetimeatom], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified]),
+      basecase last -> entry(anentry[:date], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:datetimeatom], "http://flaviusb.net/tweets/#{anentry[:url]}", anentry[:linkified])))
   ''(''(`basecase))
 )
 guard = dsyntax("guard(a, b, c) = c if a is nil, otherwise b.",

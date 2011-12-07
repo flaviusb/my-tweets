@@ -17,7 +17,7 @@ swap = {
   "Dec" => 12
 }
 
-datetimeify  = method("Turn the friendly text format into the braindead html5 time element format", text,
+datetimeifyhtml5  = method("Turn the friendly text format into the braindead html5 time element format", text,
   month = swap[text[4..6]]
   day = text[8..9]
   year = text[11..14]
@@ -25,6 +25,16 @@ datetimeify  = method("Turn the friendly text format into the braindead html5 ti
   minute = text[19..20]
   second = text[22..23]
   tzoffset = text[28..32]
+  return "#{year}-#{month}-#{day}T#{hour}:#{minute}:#{second}#{tzoffset}")
+
+datetimeifyatom  = method("Turn the friendly text format into the braindead html5 time element format", text,
+  month = swap[text[4..6]]
+  day = text[8..9]
+  year = text[11..14]
+  hour = text[16..17]
+  minute = text[19..20]
+  second = text[22..23]
+  tzoffset = "#{text[28..30]}:#{text[31..32]}"
   return "#{year}-#{month}-#{day}T#{hour}:#{minute}:#{second}#{tzoffset}")
 
 linkify = method("Add in links to the tweet text - a nop for present", text,
@@ -51,7 +61,8 @@ split_tweets each(tweep,
   collected_tweet[state] = tweep
   if(state == :date,
     collected_tweet[:date] = collected_tweet[:date][0...-1]
-    collected_tweet[:datetime] = datetimeify(collected_tweet[:date])
+    collected_tweet[:datetime] = datetimeifyhtml5(collected_tweet[:date])
+    collected_tweet[:datetimeatom] = datetimeifyatom(collected_tweet[:date])
     if(!(collected_tweets empty?),
       prev_url = collected_tweets[-1][:url]
       prev_slug = prev_url split("/") [0...-1] join("/") + "/"
@@ -93,7 +104,7 @@ page_num = 0
 while(tweet_counter < total_tweets,
   atom_data = {
     entries: collected_tweets[tweet_counter...(tweet_counter+tweets_per_page)],
-    updated: collected_tweets[0][:datetime],
+    updated: collected_tweets[0][:datetimeatom],
     num: page_num,
     title: "flaviusb's 'tweet' feed, page #{page_num + 1}"
   }
