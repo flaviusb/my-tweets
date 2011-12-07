@@ -31,9 +31,9 @@ guard = dsyntax("guard(a, b, c) = c if a is nil, otherwise b.",
 (feed(xmlns: "http://www.w3.org/2005/Atom")
   (title "#{`data[:title]}")
   `guard(data[:tag],
-    (link(href: "http://flaviusb.net/hashtags/#{`data[:tag]}#{`data[:num]}.xml", rel: "self"))
+    (link(href: "http://flaviusb.net/hashtags/#{`data[:tag]}#{`data[:num]}.atom", rel: "self"))
     ,
-    (link(href: "http://flaviusb.net/tweets/atom#{`data[:num]}.xml", rel: "self"))
+    (link(href: "http://flaviusb.net/tweets/atom#{`data[:num]}.atom", rel: "self"))
     )
   link(href: "http://flaviusb.net")
   `guard(data[:previous],
