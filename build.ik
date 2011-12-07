@@ -82,4 +82,20 @@ index_data = {
 GenX build(base: "/var/www/flaviusb.net/htdocs/",
   (index_data => "tweets.html") => "index.ik")
   
-
+tweet_counter = 0
+tweets_per_page = 50
+total_tweets = individual_rendered_posts length
+page_num = 0
+while(tweet_counter <= total_tweets,
+  atom_data = {
+    entries: collected_tweets[tweet_counter...(tweet_counter+tweets_per_page)],
+    updated: collected_tweets[0][:datetime],
+    num: page_num,
+    title: "flaviusb's 'tweet' feed, page #{page_num + 1}"
+  }
+  if(page_num > 0, atom_data[:previous] = (page_num - 1))
+  if((tweet_counter + tweets_per_page) <= total_tweets, atom_data[:next] = (page_num + 1)) 
+  GenX build(base: "/var/www/flaviusb.net/htdocs/tweets/",
+    (atom_data => "atom#{page_num}.xml") => "atom.ik")
+  page_num += 1
+  tweet_counter += tweets_per_page)
