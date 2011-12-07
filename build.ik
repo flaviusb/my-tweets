@@ -98,7 +98,7 @@ while(tweet_counter <= total_tweets,
     title: "flaviusb's 'tweet' feed, page #{page_num + 1}"
   }
   if(page_num > 0, atom_data[:previous] = "atom#{(page_num - 1)}.xml")
-  if((tweet_counter + tweets_per_page) <= total_tweets, atom_data[:next] = "atom#{(page_num + 1)}") 
+  if((tweet_counter + tweets_per_page) <= total_tweets, atom_data[:next] = "atom#{(page_num + 1)}.xml") 
   GenX build(base: "/var/www/flaviusb.net/htdocs/tweets/",
     (atom_data => "atom#{page_num}.xml") => "atom.ik")
   page_num += 1
