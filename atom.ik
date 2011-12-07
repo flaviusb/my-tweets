@@ -36,6 +36,12 @@ guard = dsyntax("guard(a, b, c) = c if a is nil, otherwise b.",
     (link(href: "http://flaviusb.net/tweets/atom#{`data[:num]}.xml", rel: "self"))
     )
   link(href: "http://flaviusb.net")
+  `guard(data[:previous],
+    (link(rel: "previous", href: "#{`data[:previous]}")),
+    (//("No previous page")))
+  `guard(data[:next],
+    (link(rel: "next", href: "#{`data[:next]}")),
+    (//("No next page")))
   (updated "#{`data[:updated]}")
   (id (`guard(data[:tag],
         "http://flaviusb.net/hashtags/#{`data[:tag]}",
@@ -45,10 +51,4 @@ guard = dsyntax("guard(a, b, c) = c if a is nil, otherwise b.",
     email "justin.marsh@flaviusb.net"
   )
   `entries(data[:entries])
-  `guard(data[:previous],
-    (link(rel: "previous", href: "#{`data[:previous]}")),
-    (//("No previous page")))
-  `guard(data[:next],
-    (link(rel: "next", href: "#{`data[:next]}")),
-    (//("No next page")))
 ))
