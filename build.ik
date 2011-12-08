@@ -99,13 +99,14 @@ collected_tweets reverse!
 
 individual_rendered_posts = []
 
-tweet_template = Message fromText(FileSystem readFully("post.ik"))
+tweet_part_template = Message fromText(FileSystem readFully("post.ik"))
+tweet_template = Message fromText(FileSystem readFully("tweet.ik")
 
 collected_tweets each(tweet,
-  GenX build(base: base,
-    (tweet => tweet[:url]) => "tweet.ik")
+  GenX buildTemplate(base: base,
+    (tweet => tweet[:url]) => tweet_template)
   temp_context = XML mimic with(data: tweet)
-  individual_rendered_posts unshift!(XML render(tweet_template evaluateOn(temp_context, temp_context))))
+  individual_rendered_posts unshift!(XML render(tweet_part_template evaluateOn(temp_context, temp_context))))
 
 individual_rendered_posts reverse!
 
