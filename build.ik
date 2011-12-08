@@ -98,10 +98,14 @@ split_tweets each(tweep,
 collected_tweets reverse!
 
 individual_rendered_posts = []
+
+tweet_template = Message fromText(FileSystem readFully("post.ik"))
+
 collected_tweets each(tweet,
   GenX build(base: base,
     (tweet => tweet[:url]) => "tweet.ik")
-  individual_rendered_posts unshift!(XML render(XML fromQuotedFile("post.ik", context: XML mimic with(data: tweet)))))
+  temp_context = XML mimic with(data: tweet)
+  individual_rendered_posts unshift!(XML render(tweet_template evaluateOn(temp_context, temp_context))))
 
 individual_rendered_posts reverse!
 
