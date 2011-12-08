@@ -100,7 +100,7 @@ collected_tweets reverse!
 individual_rendered_posts = []
 
 tweet_part_template = Message fromText(FileSystem readFully("post.ik"))
-tweet_template = Message fromText(FileSystem readFully("tweet.ik")
+tweet_template = Message fromText(FileSystem readFully("tweet.ik"))
 
 collected_tweets each(tweet,
   GenX buildTemplate(base: base,
