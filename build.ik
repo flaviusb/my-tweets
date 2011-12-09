@@ -145,7 +145,7 @@ if((System programArguments length > 1) && (System programArguments[1] == "-m"),
   short_tweet = ""
   short_url = "… flaviusb.me/#{collected_tweets[0][:shorturl]}"
   if(collected_tweets[0][:content] length > 140,
-    short_tweet = collected_tweets[0][:content][0...(140 - (short_url length))] + short_url,
+    short_tweet = collected_tweets[0][:content][0...(135 - (short_url length))] + short_url,
     short_tweet = collected_tweets[0][:content]) 
   Shell out("coffee", "post.coffee", short_tweet))
 
