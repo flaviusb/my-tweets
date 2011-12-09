@@ -1,3 +1,5 @@
+Fri Dec 09 2011 22:30:24 GMT+1300 (NZDT)»
+So, let us see if _this_ works...
 Wed Nov 30 2011 18:35:26 GMT+1300 (NZDT)»
 Building the new in the shell of the old; cross compilation has never sounded so anarchist.
 Wed Nov 30 2011 18:16:56 GMT+1300 (NZDT)»
