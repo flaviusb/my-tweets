@@ -116,6 +116,7 @@ split_tweets each(tweep,
     collected_tweet[:date] = collected_tweet[:date][0...-1]
     collected_tweet[:datetime] = datetimeifyhtml5(collected_tweet[:date])
     collected_tweet[:datetimeatom] = datetimeifyatom(collected_tweet[:date])
+    collected_tweet[:shorturl] = datetimeifyb60(collected_tweet[:date])
     if(!(collected_tweets empty?),
       prev_url = collected_tweets[-1][:url]
       prev_slug = prev_url split("/") [0...-1] join("/") + "/"

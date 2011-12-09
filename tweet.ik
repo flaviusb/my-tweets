@@ -25,7 +25,7 @@ html(xmlns: "http://www.w3.org/1999/xhtml", lang: "en") (head
            '(span(class: "grey")  abbr(title: "Next") "→"),
            ''(a(href: "http://flaviusb.net/tweets/#{`data[:next_longurl]}")  abbr(title: "Next") "→"))))
       (form(action: "") (label (span "permalink:") input(size: "26", class: "url permalink", readonly: "readonly", value: "http://flaviusb.net/tweets/#{`data[:url]}", type: "url"))
-      //(label (span "shortlink:") input(size: "26", class: "url permalink", readonly: "readonly", value: "http://flaviusb.me/#{`data[:shorturl]}", type: "url"))))
+      (label (span "shortlink:") input(size: "26", class: "url permalink", readonly: "readonly", value: "http://flaviusb.me/#{`data[:shorturl]}", type: "url"))))
     (p
       a(href: "http://flaviusb.net") "Home"
       " &#160; | &#160; "
