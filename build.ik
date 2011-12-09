@@ -138,6 +138,17 @@ split_tweets each(tweep,
 
 collected_tweets reverse!
 
+; Post the newest tweet here, if invoked as byeloblog.ik build.ik -m
+; This should help us to avoid some of the quoting annoyance
+
+if((System programArguments length > 1) && (System programArguments[1] == "-m"),
+  short_tweet = ""
+  short_url = "… flaviusb.me/#{collected_tweets[0][:shorturl]}"
+  if(collected_tweets[0][:content] length > 140,
+    short_tweet = collected_tweets[0][:content][0...(140 - (short_url length))] + short_url,
+    short_tweet = collected_tweets[0][:content]) 
+  Shell out("coffee", "post.coffee", short_tweet))
+
 individual_rendered_posts = []
 
 tweet_part_template = Message fromText(FileSystem readFully("post.ik"))
