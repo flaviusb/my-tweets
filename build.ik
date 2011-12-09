@@ -116,18 +116,20 @@ split_tweets each(tweep,
     collected_tweet[:date] = collected_tweet[:date][0...-1]
     collected_tweet[:datetime] = datetimeifyhtml5(collected_tweet[:date])
     collected_tweet[:datetimeatom] = datetimeifyatom(collected_tweet[:date])
-    collected_tweet[:shorturl] = datetimeifyb60(collected_tweet[:date])
     if(!(collected_tweets empty?),
       prev_url = collected_tweets[-1][:url]
       prev_slug = prev_url split("/") [0...-1] join("/") + "/"
       prev_ord = prev_url split("/") [-1] split(".") [0] toRational
       curr_slug = date2url(collected_tweet[:date])
       if(curr_slug == prev_slug,
-        collected_tweet[:url] = curr_slug + (prev_ord + 1) + ".html",
-        collected_tweet[:url] = curr_slug + "0.html")
+        collected_tweet[:url] = curr_slug + (prev_ord + 1) + ".html"
+        collected_tweet[:shorturl] = "t/#{datetimeifyb60(collected_tweet[:date])}/#{(prev_ord + 1)}",
+        collected_tweet[:url] = curr_slug + "0.html"
+        collected_tweet[:shorturl] = "t/#{datetimeifyb60(collected_tweet[:date])}/0")
       collected_tweet[:prev_longurl] = collected_tweets[-1][:url]
       collected_tweets[-1][:next_longurl] = collected_tweet[:url],
-      collected_tweet[:url] = date2url(collected_tweet[:date]) + "/0.html")
+      collected_tweet[:url] = date2url(collected_tweet[:date]) + "/0.html"
+      collected_tweet[:shorturl] = "t/#{datetimeifyb60(collected_tweet[:date])}/0")
     collected_tweets push!(collected_tweet)
     collected_tweet = {}
     state = :content,
