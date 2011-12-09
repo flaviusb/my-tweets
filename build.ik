@@ -32,6 +32,44 @@ swap2 = {
   "Dec" => "12"
 }
 
+newbase60 = method("Convertg a number to a newbase60 string", num,
+  ret = ""
+  if(num == 0,
+    return "0")
+  space = "0123456789ABCDEFGHJKLMNPQRSTUVWXYZ_abcdefghijkmnopqrstuvwxyz"
+  num = num abs
+  mod = num % 60
+  div = intify(java:lang:Math floor(num / 60.0))
+  ret = space[mod..mod] + ret
+  while(div != 0,
+    mod = div % 60
+    div = intify(java:lang:Math floor(div / 60.0))
+    ret = space[mod..mod] + ret)
+  ret)
+
+intify = method(num, java:lang:Double new(num) intValue asRational)
+
+isleap = method(y,
+  (y % 4 == 0 && (y % 100 != 0 || y % 400 == 0)))
+
+ymdptod = method(y,m,d,
+  md = [[0,31,59,90,120,151,181,212,243,273,304,334],[0,31,60,91,121,152,182,213,244,274,305,335]]
+  return md[if(isleap(y), 1, 0)][m-1]+d)
+
+lyrs = method(y, 
+  t1 = intify(java:lang:Math floor(y / 4.0))
+  t2 = intify(java:lang:Math floor(y / 100.0))
+  t3 = intify(java:lang:Math floor(y / 400.0))
+  (t1 - t2) + t3)
+
+rellyrs = method(y, lyrs(y) - lyrs(1970))
+
+datetimeifyb60 = method(text,
+  month = swap[text[4..6]]
+  day = text[8..9] toRational
+  year = text[11..14] toRational
+  newbase60(ymdptod(year, month, day) + (((year - 1970) * 365) + rellyrs(year)))
+  )
 datetimeifyhtml5  = method("Turn the friendly text format into the braindead html5 time element format", text,
   month = swap[text[4..6]]
   day = text[8..9]
