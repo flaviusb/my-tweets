@@ -66,7 +66,7 @@ rellyrs = method(y, lyrs(y) - lyrs(1970))
 
 datetimeifyb60 = method(text,
   month = swap[text[4..6]]
-  day = text[8..9] toRational
+  day = (text[8..9] toRational) - 1 ; This is because 01 Jan 1970 should be day zero in epoch base 60 days.
   year = text[11..14] toRational
   newbase60(ymdptod(year, month, day) + (((year - 1970) * 365) + rellyrs(year)))
   )
