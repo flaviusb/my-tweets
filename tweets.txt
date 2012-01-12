@@ -1,3 +1,5 @@
+Thu Jan 12 2012 19:59:22 GMT+1300 (NZDT)»
+'Distributed' in version control does not mean 'No blessed branch in a blessed repo can ever exist. Also neither can a website.'.
 Mon Jan 09 2012 00:30:14 GMT+1300 (NZDT)»
 @Nodame_7 ... and I'm less of a vampire than I used to be, but I do still miss our meetings.
 Mon Jan 09 2012 00:28:51 GMT+1300 (NZDT)»
