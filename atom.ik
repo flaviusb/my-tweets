@@ -30,22 +30,20 @@ guard = dsyntax("guard(a, b, c) = c if a is nil, otherwise b.",
 `doctype("xml")
 (feed(xmlns: "http://www.w3.org/2005/Atom")
   (title "#{`data[:title]}")
-  `guard(data[:tag],
-    (link(href: "http://flaviusb.net/hashtags/#{`data[:tag]}#{`data[:num]}.atom", rel: "self"))
-    ,
-    (link(href: "http://flaviusb.net/tweets/atom#{`data[:num]}.atom", rel: "self"))
-    )
   link(href: "http://flaviusb.net")
+  (updated "#{`data[:updated]}")
+  (id (`guard(data[:tag],
+        "http://flaviusb.net/hashtags/#{`data[:tag]}",
+        "http://flaviusb.net/tweets/")))
+  (link(href: "#{`data[:self]}", rel: "self", type: "application/atom+xml"))
+  (link(href: "#{`data[:first]}", rel: "first"))
   `guard(data[:previous],
     (link(rel: "previous", href: "#{`data[:previous]}")),
     (//("No previous page")))
   `guard(data[:next],
     (link(rel: "next", href: "#{`data[:next]}")),
     (//("No next page")))
-  (updated "#{`data[:updated]}")
-  (id (`guard(data[:tag],
-        "http://flaviusb.net/hashtags/#{`data[:tag]}",
-        "http://flaviusb.net/tweets/")))
+  (link(href: "#{`data[:last]}", rel: "last"))
   (author
     name "Justin (:flaviusb) Marsh"
     email "justin.marsh@flaviusb.net"

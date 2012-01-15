@@ -20,7 +20,7 @@ fs.readFile 'conf.json', 'utf-8', (err, data) ->
   })
   newtweet = process.argv[2]
   shorttext = newtweet
-  #if fulltext.length > 14
+  #if fulltext.length > 140
   #  endslug = 
   #  shorttext
   twit.updateStatus shorttext, (err) ->

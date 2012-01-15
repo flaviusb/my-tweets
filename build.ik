@@ -173,11 +173,14 @@ tweet_counter = 0
 tweets_per_page = 50
 total_tweets = individual_rendered_posts length
 page_num = 0
+last_page = total_tweets div(tweets_per_page) + 1
 while(tweet_counter < total_tweets,
   atom_data = {
     entries: collected_tweets[tweet_counter...(tweet_counter+tweets_per_page)],
     updated: collected_tweets[0][:datetimeatom],
-    num: page_num,
+    self:  "http://flaviusb.net/tweets/atom#{page_num}.atom",
+    first: "http://flaviusb.net/tweets/atom0.atom",
+    last:  "http://flaviusb.net/tweets/atom#{last_page}.atom",
     title: "flaviusb's 'tweet' feed, page #{page_num + 1}"
   }
   if(page_num > 0, atom_data[:previous] = "http://flaviusb.net/tweets/atom#{(page_num - 1)}.atom")
