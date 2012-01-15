@@ -181,7 +181,8 @@ while(tweet_counter < total_tweets,
     self:  "http://flaviusb.net/tweets/atom#{page_num}.atom",
     first: "http://flaviusb.net/tweets/atom0.atom",
     last:  "http://flaviusb.net/tweets/atom#{last_page}.atom",
-    title: "flaviusb's 'tweet' feed, page #{page_num + 1}"
+    title: "flaviusb's 'tweet' feed, page #{page_num + 1}",
+    icon:  "http://flaviusb.net/favicon.png"
   }
   if(page_num > 0, atom_data[:previous] = "http://flaviusb.net/tweets/atom#{(page_num - 1)}.atom")
   if((tweet_counter + tweets_per_page) <= total_tweets, atom_data[:next] = "http://flaviusb.net/tweets/atom#{(page_num + 1)}.atom") 

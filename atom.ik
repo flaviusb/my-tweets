@@ -48,5 +48,6 @@ guard = dsyntax("guard(a, b, c) = c if a is nil, otherwise b.",
     name "Justin (:flaviusb) Marsh"
     email "justin.marsh@flaviusb.net"
   )
+  (icon "#{`data[:icon]}")
   `entries(data[:entries])
 ))
