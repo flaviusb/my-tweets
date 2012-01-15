@@ -1,3 +1,5 @@
+Sun Jan 15 2012 22:55:29 GMT+1300 (NZDT)»
+Welp, now it doesn't seem to work on GReader. Validates fine thought, and works on other feed readers. Vexing.
 Sun Jan 15 2012 22:17:48 GMT+1300 (NZDT)»
 This should be simple, and yet it takes an endless amount of redesign.
 Sat Jan 14 2012 04:42:51 GMT+1300 (NZDT)»
