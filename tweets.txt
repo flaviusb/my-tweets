@@ -1,3 +1,5 @@
+Sun Jan 15 2012 23:40:48 GMT+1300 (NZDT)»
+Okay, GReader just seems to be really slow to update for me at the moment. So, score one for standards and interoperability.
 Sun Jan 15 2012 22:55:29 GMT+1300 (NZDT)»
 Welp, now it doesn't seem to work on GReader. Validates fine thought, and works on other feed readers. Vexing.
 Sun Jan 15 2012 22:17:48 GMT+1300 (NZDT)»
