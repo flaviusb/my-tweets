@@ -141,13 +141,17 @@ collected_tweets reverse!
 ; Post the newest tweet here, if invoked as byeloblog.ik build.ik -m
 ; This should help us to avoid some of the quoting annoyance
 
-if((System programArguments length > 1) && (System programArguments[1] == "-m"),
+post_a_tweet = method("Post a tweet to twitter via coffeescript program.", the_tweet,
   short_tweet = ""
-  short_url = "… flaviusb.me/#{collected_tweets[0][:shorturl]}"
-  if(collected_tweets[0][:content] length > 140,
-    short_tweet = collected_tweets[0][:content][0...(135 - (short_url length))] + short_url,
-    short_tweet = collected_tweets[0][:content]) 
+  short_url = "… flaviusb.me/#{the_tweet[:shorturl]}"
+  if(the_tweet[:content] length > 140,
+    short_tweet = the_tweet[:content][0...(135 - (short_url length))] + short_url,
+    short_tweet = the_tweet[:content]) 
   Shell out("coffee", "post.coffee", short_tweet))
+
+if((System programArguments length > 1) && (System programArguments[1] == "-m"),
+  tweets_to_tweet = if((System programArguments length > 2), System programArguments[2] toRational, 1)
+  collected_tweets[0...(tweets_to_tweet)] reverse each(post_a_tweet))
 
 individual_rendered_posts = []
 
