@@ -151,7 +151,7 @@ post_a_tweet = method("Post a tweet to twitter via coffeescript program.", the_t
 
 if((System programArguments length > 1) && (System programArguments[1] == "-m"),
   tweets_to_tweet = if((System programArguments length > 2), System programArguments[2] toRational, 1)
-  collected_tweets[0...(tweets_to_tweet)] reverse each(post_a_tweet))
+  collected_tweets[0...(tweets_to_tweet)] reverse each(the_tweet, post_a_tweet(the_tweet)))
 
 individual_rendered_posts = []
 
