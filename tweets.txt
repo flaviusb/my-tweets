@@ -1,3 +1,5 @@
+Sun Jul 15 2012 01:23:36 GMT+1200 (NZST)»
+I am not in 無心, but at least I no longer have the distraction of a utf-8 incapable terminal.
 Sat Jul 14 2012 20:35:16 GMT+1200 (NZST)»
 Sum types and algebraic decomposition ftw. _This_ is what I was after all those years ago...
 Sat Jul 14 2012 16:56:11 GMT+1200 (NZST)»
