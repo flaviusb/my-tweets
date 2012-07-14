@@ -1,3 +1,5 @@
+Sat Jul 14 2012 20:35:16 GMT+1200 (NZST)»
+Sum types and algebraic decomposition ftw. _This_ is what I was after all those years ago...
 Sat Jul 14 2012 16:56:11 GMT+1200 (NZST)»
 "His vision of humanity is just a million tons of meat floating around in a sea of base calculations." - Matt Taibbi on Mitt Romney
 Fri Jul 13 2012 18:15:21 GMT+1200 (NZST)»
