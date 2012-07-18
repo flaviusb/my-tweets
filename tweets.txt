@@ -1,3 +1,5 @@
+Thu Jul 19 2012 01:26:01 GMT+1200 (NZST)»
+I feel sunburnt. What is this I don't even...
 Mon Jul 16 2012 19:38:56 GMT+1200 (NZST)»
 Manually (re)started my personal shortlinking service. Cron? What is that? Past self takes 5370 damage.
 Mon Jul 16 2012 17:24:19 GMT+1200 (NZST)»
