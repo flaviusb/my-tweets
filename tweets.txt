@@ -1,4 +1,4 @@
-Mon Jul 23 2012 02:17:19 GMT+1200 (NZST)»
+Mon Jul 23 2012 02:29:40 GMT+1200 (NZST)»
 Urgh, cannibalism. Playing around with assembly language again. Bootstrapping a toy language without using any C is annoying.
 Thu Jul 19 2012 01:26:01 GMT+1200 (NZST)»
 I feel sunburnt. What is this I don't even...
