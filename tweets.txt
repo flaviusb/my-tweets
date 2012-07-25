@@ -1,3 +1,5 @@
+Wed Jul 25 2012 15:05:10 GMT+1200 (NZST)»
+Is it wrong that I want a language that is like a cross between Ioke and Haskell, with bits of Perl and Scala?
 Mon Jul 23 2012 05:00:07 GMT+1200 (NZST)»
 Current status: stone knives and bootstrapping. Then sleep.
 Mon Jul 23 2012 03:54:15 GMT+1200 (NZST)»
