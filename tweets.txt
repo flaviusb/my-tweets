@@ -1,3 +1,5 @@
+Wed Jul 25 2012 17:19:13 GMT+1200 (NZST)»
+@littlefuries ♥
 Wed Jul 25 2012 15:05:10 GMT+1200 (NZST)»
 Is it wrong that I want a language that is like a cross between Ioke and Haskell, with bits of Perl and Scala?
 Mon Jul 23 2012 05:00:07 GMT+1200 (NZST)»
