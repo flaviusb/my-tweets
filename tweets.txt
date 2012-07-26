@@ -1,3 +1,5 @@
+Fri Jul 27 2012 05:04:21 GMT+1200 (NZST)»
+Oh yeah, about that pervasive mutable state...
 Fri Jul 27 2012 00:47:17 GMT+1200 (NZST)»
 Or, option four.
 Wed Jul 25 2012 17:47:01 GMT+1200 (NZST)»
