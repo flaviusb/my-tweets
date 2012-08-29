@@ -1,3 +1,5 @@
+Wed Aug 29 2012 16:30:12 GMT+1200 (NZST)»
+@zedshaw or when I had a codebase with lots of some particular kind of repetition which that language had constructs for factoring out.
 Wed Aug 29 2012 16:19:22 GMT+1200 (NZST)»
 @zedshaw eg I found Peggy for parsing in Haskell much faster and easier to hack stuff together with than bison/flex/lemon had been.
 Wed Aug 29 2012 16:19:22 GMT+1200 (NZST)»
