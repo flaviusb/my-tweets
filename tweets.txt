@@ -1,3 +1,7 @@
+Wed Aug 29 2012 16:19:22 GMT+1200 (NZST)»
+@zedshaw eg I found Peggy for parsing in Haskell much faster and easier to hack stuff together with than bison/flex/lemon had been.
+Wed Aug 29 2012 16:19:22 GMT+1200 (NZST)»
+@zedshaw regarding 'hard languages', I have liked using them when they make stuff *actually* easier for me, but not really otherwise.
 Wed Aug 29 2012 07:46:42 GMT+1200 (NZST)»
 Urgh.
 Sun Aug 26 2012 20:58:38 GMT+1200 (NZST)»
