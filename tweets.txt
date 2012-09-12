@@ -1,3 +1,5 @@
+Wed Sep 12 2012 22:08:31 GMT+1200 (NZST)»
+Current status: Tava andando pela mata/uma cobra me mordeu/meu veneno era mais forte/e foi a cobra quem morreu
 Wed Sep 12 2012 20:41:23 GMT+1200 (NZST)»
 So, munging binary data in Java (and most JVM languages) is basically broken. Time to break out awk, I guess.
 Wed Sep 12 2012 17:27:07 GMT+1200 (NZST)»
