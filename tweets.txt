@@ -1,3 +1,5 @@
+Wed Sep 12 2012 20:41:23 GMT+1200 (NZST)»
+So, munging binary data in Java (and most JVM languages) is basically broken. Time to break out awk, I guess.
 Wed Sep 12 2012 17:27:07 GMT+1200 (NZST)»
 'Deathmarch' was the word I was looking for, as it turns out.
 Wed Sep 12 2012 10:29:59 GMT+1200 (NZST)»
