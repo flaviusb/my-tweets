@@ -1,3 +1,5 @@
+Thu Sep 27 2012 19:59:45 GMT+1200 (NZST)»
+Current status: Trying to avoid writing a metacircular reader based on mirror universes. Not sure my willpower will last.
 Thu Sep 27 2012 03:39:01 GMT+1200 (NZST)»
 Sort of an OWoD NWoD Mage crossover, Masters of the Universe type thing.
 Thu Sep 27 2012 03:39:01 GMT+1200 (NZST)»
