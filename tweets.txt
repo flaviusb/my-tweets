@@ -1,3 +1,5 @@
+Thu Sep 27 2012 21:11:28 GMT+1200 (NZST)»
+I couldn't hold out. This is so far beyond yak shaving; a mental magical mystery tour.
 Thu Sep 27 2012 19:59:45 GMT+1200 (NZST)»
 Current status: Trying to avoid writing a metacircular reader based on mirror universes. Not sure my willpower will last.
 Thu Sep 27 2012 03:39:01 GMT+1200 (NZST)»
