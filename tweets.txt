@@ -1,3 +1,5 @@
+Sat Oct 20 2012 00:07:07 GMT+1300 (NZDT)»
+Sometimes I am glad that the brain is a hacked together buggy piece of shit: it means that even conceptual superweapons can be defeated by what amounts to a 'return to libc' style shellcode injection. This is counterbalanced by the danger of being hacked by a 'return to libc' style shellcode injection, though. No safety. Argh.
 Tue Oct 16 2012 18:00:06 GMT+1300 (NZDT)»
 Urgh.
 Tue Oct 16 2012 03:06:50 GMT+1300 (NZDT)»
