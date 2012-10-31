@@ -1,3 +1,5 @@
+Wed Oct 31 2012 17:08:42 GMT+1300 (NZDT)»
+Context switching remains expensive. So does lock contention. So does swapping, caused by each task having a large working set.
 Fri Oct 26 2012 18:00:23 GMT+1300 (NZDT)»
 Actual distributed management: http://redmonk.com/tv/2012/10/24/distributed-management-githubs-ryan-tomayko/ \cc @djrubbie
 Mon Oct 22 2012 01:29:26 GMT+1300 (NZDT)»
