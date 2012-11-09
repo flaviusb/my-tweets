@@ -1,3 +1,5 @@
+Fri Nov 09 2012 13:51:33 GMT+1300 (NZDT)»
+Very weird headspace. Slowly coming back to Earth.
 Wed Oct 31 2012 17:09:18 GMT+1300 (NZDT)»
 Context switching remains expensive. So does lock contention. So does swapping, caused by each task having a large working set.
 Fri Oct 26 2012 18:00:23 GMT+1300 (NZDT)»
