@@ -1,3 +1,5 @@
+Tue Nov 20 2012 03:51:36 GMT+1300 (NZDT)»
+Okay, I give up. This brokenness is bizarre. Arch was good, but is now useless to me. I'm looking for a new distro again.
 Tue Nov 20 2012 02:42:29 GMT+1300 (NZDT)»
 I *really* don't want to be doing this level of sysadminning fuckery hours before an international flight.
 Mon Nov 19 2012 02:14:50 GMT+1300 (NZDT)»
