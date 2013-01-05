@@ -1,3 +1,7 @@
+Sun Jan 06 2013 01:26:38 GMT+1300 (NZDT)»
+Note to self: fix problem.
+Sun Jan 06 2013 01:26:38 GMT+1300 (NZDT)»
+Okay, this level of thrashing is unusable. Frequent borderline lockup, and no multitasking.
 Sat Jan 05 2013 21:47:43 GMT+1300 (NZDT)»
 Surprising anew how much effort it takes to achieve a still mind. Progress retarded by shouty neighbours.
 Fri Dec 28 2012 20:04:59 GMT+1300 (NZDT)»
