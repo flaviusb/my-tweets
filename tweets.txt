@@ -1,3 +1,5 @@
+Sun Jan 13 2013 17:01:47 GMT+1300 (NZDT)»
+Once again, foiled by datetime handling.
 Sun Jan 13 2013 16:33:19 GMT+1300 (NZDT)»
 Many people speaking Power to Truth who think that they are speaking Truth to Power. I need a better way of talking about the difference between two things referred to as 'expected utility'.
 Tue Jan 08 2013 19:00:40 GMT+1300 (NZDT)»
