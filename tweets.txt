@@ -1,3 +1,5 @@
+Sat Mar 02 2013 00:21:16 GMT+1300 (NZDT)»
+@WeylandNZ Processing is pretty cool. Have a look at http://processingjs.org/ for a javascript port.
 Sat Feb 23 2013 01:29:40 GMT+1300 (NZDT)»
 Mood based programming. Yes.
 Wed Feb 20 2013 15:59:50 GMT+1300 (NZDT)»
