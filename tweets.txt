@@ -1,3 +1,7 @@
+Sat Mar 02 2013 00:56:59 GMT+1300 (NZDT)»
+@WeylandNZ eg http://createdigitalmusic.com/2011/10/music-from-code-in-simple-text-live-coding-steve-reich-ian-rhythms-with-free-overtone/
+Sat Mar 02 2013 00:56:59 GMT+1300 (NZDT)»
+@WeylandNZ You may also be interested in Overtone, a live coding, music making environment.
 Sat Mar 02 2013 00:21:16 GMT+1300 (NZDT)»
 @WeylandNZ Processing is pretty cool. Have a look at http://processingjs.org/ for a javascript port.
 Sat Feb 23 2013 01:29:40 GMT+1300 (NZDT)»
