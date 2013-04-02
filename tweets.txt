@@ -1,3 +1,5 @@
+Tue Apr 02 2013 23:54:13 GMT+1300 (NZDT)»
+@dznz It's simple, but slow going. Mainly just separating readers, evallers, printers, runloops, universes, and mirrors cc @jamesotron.
 Tue Apr 02 2013 23:10:24 GMT+1300 (NZDT)»
 Today was like a comedy of errors, but without humour.
 Tue Apr 02 2013 15:09:39 GMT+1300 (NZDT)»
